@@ -6,8 +6,7 @@
       "Region": "CA, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Universal_Studios_Hollywood",
       "Wikipedia": "https://en.wikipedia.org/wiki/Universal_Studios_Hollywood",
-      "Official Website": "https://www.universalstudioshollywood.com/",
-      "RCDB": "https://rcdb.com/5265.htm"
+      "Official Website": "https://www.universalstudioshollywood.com/"
     },
     {
       "Park Index": 2,
@@ -15,8 +14,7 @@
       "Region": "FL, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Universal%27s_Islands_of_Adventure",
       "Wikipedia": "https://en.wikipedia.org/wiki/Universal_Islands_of_Adventure",
-      "Official Website": "https://www.universalorlando.com/web/en/us/theme-parks/islands-of-adventure",
-      "RCDB": "https://rcdb.com/4734.htm"
+      "Official Website": "https://www.universalorlando.com/web/en/us/theme-parks/islands-of-adventure"
     },
     {
       "Park Index": 3,
@@ -24,8 +22,7 @@
       "Region": "FL, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Universal_Studios_Florida",
       "Wikipedia": "https://en.wikipedia.org/wiki/Universal_Studios_Florida",
-      "Official Website": "https://www.universalorlando.com/web/en/us/theme-parks/universal-studios-florida",
-      "RCDB": "https://rcdb.com/4736.htm"
+      "Official Website": "https://www.universalorlando.com/web/en/us/theme-parks/universal-studios-florida"
     },
     {
       "Park Index": 4,
@@ -33,8 +30,7 @@
       "Region": "Osaka, Japan",
       "Coasterpedia": "https://coasterpedia.net/wiki/Universal_Studios_Japan",
       "Wikipedia": "https://en.wikipedia.org/wiki/Universal_Studios_Japan",
-      "Official Website": "https://www.usj.co.jp/web/en/us",
-      "RCDB": "https://rcdb.com/5492.htm"
+      "Official Website": "https://www.usj.co.jp/web/en/us"
     },
     {
       "Park Index": 5,
@@ -42,8 +38,7 @@
       "Region": "Sentosa, Singapore",
       "Coasterpedia": "https://coasterpedia.net/wiki/Universal_Studios_Singapore",
       "Wikipedia": "https://en.wikipedia.org/wiki/Universal_Studios_Singapore",
-      "Official Website": "https://www.rwsentosa.com/en/attractions/universal-studios-singapore",
-      "RCDB": null
+      "Official Website": "https://www.rwsentosa.com/en/attractions/universal-studios-singapore"
     },
     {
       "Park Index": 6,
@@ -51,8 +46,7 @@
       "Region": "Beijing, China",
       "Coasterpedia": "https://coasterpedia.net/wiki/Universal_Studios_Beijing",
       "Wikipedia": "https://en.wikipedia.org/wiki/Universal_Studios_Beijing",
-      "Official Website": "https://www.universalbeijingresort.com/en",
-      "RCDB": null
+      "Official Website": "https://www.universalbeijingresort.com/en"
     },
     {
       "Park Index": 7,
@@ -60,8 +54,7 @@
       "Region": "Steel",
       "Coasterpedia": "https://coasterpedia.net/wiki/Sea_World",
       "Wikipedia": "Intamin",
-      "Official Website": "LSM Launch Coaster (Custom)",
-      "RCDB": null
+      "Official Website": "LSM Launch Coaster (Custom)"
     },
     {
       "Park Index": 8,
@@ -69,8 +62,7 @@
       "Region": "Abu Dhabi, United Arab Emirates",
       "Coasterpedia": "https://coasterpedia.net/wiki/SeaWorld_Abu_Dhabi",
       "Wikipedia": "https://en.wikipedia.org/wiki/SeaWorld_Abu_Dhabi",
-      "Official Website": "https://www.seaworldabudhabi.com/",
-      "RCDB": null
+      "Official Website": "https://www.seaworldabudhabi.com/"
     },
     {
       "Park Index": 9,
@@ -78,8 +70,7 @@
       "Region": "FL, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/SeaWorld_Orlando",
       "Wikipedia": "https://en.wikipedia.org/wiki/SeaWorld_Orlando",
-      "Official Website": "https://seaworld.com/orlando/",
-      "RCDB": null
+      "Official Website": "https://seaworld.com/orlando/"
     },
     {
       "Park Index": 10,
@@ -87,8 +78,7 @@
       "Region": "TX, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/SeaWorld_San_Antonio",
       "Wikipedia": "https://en.wikipedia.org/wiki/SeaWorld_San_Antonio",
-      "Official Website": "https://seaworld.com/san-antonio/",
-      "RCDB": null
+      "Official Website": "https://seaworld.com/san-antonio/"
     },
     {
       "Park Index": 11,
@@ -96,8 +86,7 @@
       "Region": "CA, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/SeaWorld_San_Diego",
       "Wikipedia": "https://en.wikipedia.org/wiki/SeaWorld_San_Diego",
-      "Official Website": "https://seaworld.com/san-diego/",
-      "RCDB": null
+      "Official Website": "https://seaworld.com/san-diego/"
     },
     {
       "Park Index": 12,
@@ -105,8 +94,7 @@
       "Region": "FL, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Busch_Gardens_Tampa_Bay",
       "Wikipedia": "https://en.wikipedia.org/wiki/Busch_Gardens_Tampa_Bay",
-      "Official Website": "https://buschgardens.com/tampa/",
-      "RCDB": null
+      "Official Website": "https://buschgardens.com/tampa/"
     },
     {
       "Park Index": 13,
@@ -114,8 +102,7 @@
       "Region": "VA, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Busch_Gardens_Williamsburg",
       "Wikipedia": "https://en.wikipedia.org/wiki/Busch_Gardens_Williamsburg",
-      "Official Website": "https://buschgardens.com/williamsburg/",
-      "RCDB": null
+      "Official Website": "https://buschgardens.com/williamsburg/"
     },
     {
       "Park Index": 14,
@@ -123,8 +110,7 @@
       "Region": "OK, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Frontier_City",
       "Wikipedia": "https://en.wikipedia.org/wiki/Frontier_City",
-      "Official Website": "https://www.sixflags.com/frontiercity",
-      "RCDB": null
+      "Official Website": "https://www.sixflags.com/frontiercity"
     },
     {
       "Park Index": 15,
@@ -132,8 +118,7 @@
       "Region": "Canada, Quebec",
       "Coasterpedia": "https://coasterpedia.net/wiki/La_Ronde",
       "Wikipedia": "https://en.wikipedia.org/wiki/La_Ronde_(amusement_park)",
-      "Official Website": "https://www.sixflags.com/larondeen",
-      "RCDB": null
+      "Official Website": "https://www.sixflags.com/larondeen"
     },
     {
       "Park Index": 16,
@@ -141,8 +126,7 @@
       "Region": "Staffordshire, England",
       "Coasterpedia": "https://coasterpedia.net/wiki/Alton_Towers",
       "Wikipedia": "https://en.wikipedia.org/wiki/Alton_Towers",
-      "Official Website": "https://www.altontowers.com/",
-      "RCDB": null
+      "Official Website": "https://www.altontowers.com/"
     },
     {
       "Park Index": 17,
@@ -150,8 +134,7 @@
       "Region": "Surrey, England",
       "Coasterpedia": "https://coasterpedia.net/wiki/Thorpe_Park",
       "Wikipedia": "https://en.wikipedia.org/wiki/Thorpe_Park",
-      "Official Website": "https://www.thorpepark.com/",
-      "RCDB": null
+      "Official Website": "https://www.thorpepark.com/"
     },
     {
       "Park Index": 18,
@@ -159,8 +142,7 @@
       "Region": "London, England",
       "Coasterpedia": "https://coasterpedia.net/wiki/Chessington_World_of_Adventures",
       "Wikipedia": "https://en.wikipedia.org/wiki/Chessington_World_of_Adventures",
-      "Official Website": "https://www.chessington.com/",
-      "RCDB": null
+      "Official Website": "https://www.chessington.com/"
     },
     {
       "Park Index": 19,
@@ -168,8 +150,7 @@
       "Region": "Berkshire, England",
       "Coasterpedia": "https://coasterpedia.net/wiki/Legoland_Windsor",
       "Wikipedia": "https://en.wikipedia.org/wiki/Legoland_Windsor_Resort",
-      "Official Website": "https://www.legoland.co.uk/",
-      "RCDB": null
+      "Official Website": "https://www.legoland.co.uk/"
     },
     {
       "Park Index": 20,
@@ -177,8 +158,7 @@
       "Region": "NY, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Legoland_New_York",
       "Wikipedia": "https://en.wikipedia.org/wiki/Legoland_New_York",
-      "Official Website": "https://www.legoland.com/new-york/",
-      "RCDB": null
+      "Official Website": "https://www.legoland.com/new-york/"
     },
     {
       "Park Index": 21,
@@ -186,8 +166,7 @@
       "Region": "Billund, Denmark",
       "Coasterpedia": "https://coasterpedia.net/wiki/Legoland_Billund",
       "Wikipedia": "https://en.wikipedia.org/wiki/Legoland_Billund",
-      "Official Website": null,
-      "RCDB": null
+      "Official Website": "https://www.legoland.dk/"
     },
     {
       "Park Index": 22,
@@ -195,8 +174,7 @@
       "Region": "Bavaria, Germany",
       "Coasterpedia": "https://coasterpedia.net/wiki/Legoland_Deutschland",
       "Wikipedia": "https://en.wikipedia.org/wiki/Legoland_Deutschland",
-      "Official Website": "https://www.legoland.de/",
-      "RCDB": null
+      "Official Website": "https://www.legoland.de/"
     },
     {
       "Park Index": 23,
@@ -204,8 +182,7 @@
       "Region": "Nagoya, Japan",
       "Coasterpedia": "https://coasterpedia.net/wiki/Legoland_Japan",
       "Wikipedia": "https://en.wikipedia.org/wiki/Legoland_Japan",
-      "Official Website": "https://www.legoland.jp/",
-      "RCDB": null
+      "Official Website": "https://www.legoland.jp/"
     },
     {
       "Park Index": 24,
@@ -213,8 +190,7 @@
       "Region": "Chuncheon, South Korea",
       "Coasterpedia": "https://coasterpedia.net/wiki/Legoland_Korea",
       "Wikipedia": "https://en.wikipedia.org/wiki/Legoland_Korea",
-      "Official Website": "https://www.legoland.kr/",
-      "RCDB": null
+      "Official Website": "https://www.legoland.kr/"
     },
     {
       "Park Index": 25,
@@ -222,8 +198,7 @@
       "Region": "Johor, Malaysia",
       "Coasterpedia": "https://coasterpedia.net/wiki/Legoland_Malaysia",
       "Wikipedia": "https://en.wikipedia.org/wiki/Legoland_Malaysia",
-      "Official Website": "https://www.legoland.com.my/",
-      "RCDB": null
+      "Official Website": "https://www.legoland.com.my/"
     },
     {
       "Park Index": 26,
@@ -231,8 +206,7 @@
       "Region": "Dubai, UAE",
       "Coasterpedia": "https://coasterpedia.net/wiki/Legoland_Dubai",
       "Wikipedia": "https://en.wikipedia.org/wiki/Legoland_Dubai",
-      "Official Website": "https://www.legoland.com/dubai/",
-      "RCDB": null
+      "Official Website": "https://www.legoland.com/dubai/"
     },
     {
       "Park Index": 27,
@@ -240,8 +214,7 @@
       "Region": "Carlsbad, California, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Legoland_California",
       "Wikipedia": "https://en.wikipedia.org/wiki/Legoland_California",
-      "Official Website": "https://www.legoland.com/california/",
-      "RCDB": null
+      "Official Website": "https://www.legoland.com/california/"
     },
     {
       "Park Index": 28,
@@ -249,8 +222,7 @@
       "Region": "Winter Haven, Florida, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Legoland_Florida",
       "Wikipedia": "https://en.wikipedia.org/wiki/Legoland_Florida",
-      "Official Website": "https://www.legoland.com/florida/",
-      "RCDB": null
+      "Official Website": "https://www.legoland.com/florida/"
     },
     {
       "Park Index": 29,
@@ -258,8 +230,7 @@
       "Region": "County Meath, Ireland",
       "Coasterpedia": "https://coasterpedia.net/wiki/Emerald_Park",
       "Wikipedia": "https://en.wikipedia.org/wiki/Emerald_Park",
-      "Official Website": "https://www.emeraldpark.ie/",
-      "RCDB": null
+      "Official Website": "https://www.emeraldpark.ie/"
     },
     {
       "Park Index": 30,
@@ -267,8 +238,7 @@
       "Region": "Hampshire, England",
       "Coasterpedia": "https://coasterpedia.net/wiki/Paultons_Park",
       "Wikipedia": "https://en.wikipedia.org/wiki/Paultons_Park",
-      "Official Website": "https://paultonspark.co.uk/",
-      "RCDB": null
+      "Official Website": "https://paultonspark.co.uk/"
     },
     {
       "Park Index": 31,
@@ -276,8 +246,7 @@
       "Region": "Lancashire, England",
       "Coasterpedia": "https://coasterpedia.net/wiki/Blackpool_Pleasure_Beach",
       "Wikipedia": "https://en.wikipedia.org/wiki/Blackpool_Pleasure_Beach",
-      "Official Website": "https://www.blackpoolpleasurebeach.com/",
-      "RCDB": null
+      "Official Website": "https://www.blackpoolpleasurebeach.com/"
     },
     {
       "Park Index": 32,
@@ -285,8 +254,7 @@
       "Region": "Lower Saxony, Germany",
       "Coasterpedia": "https://coasterpedia.net/wiki/Heide_Park",
       "Wikipedia": "https://en.wikipedia.org/wiki/Heide_Park",
-      "Official Website": "https://www.heide-park.de/",
-      "RCDB": null
+      "Official Website": "https://www.heide-park.de/"
     },
     {
       "Park Index": 33,
@@ -294,8 +262,7 @@
       "Region": "Veneto, Italy",
       "Coasterpedia": "https://coasterpedia.net/wiki/Gardaland",
       "Wikipedia": "https://en.wikipedia.org/wiki/Gardaland",
-      "Official Website": "https://www.gardaland.it/",
-      "RCDB": null
+      "Official Website": "https://www.gardaland.it/"
     },
     {
       "Park Index": 34,
@@ -303,8 +270,7 @@
       "Region": "Catalonia, Spain",
       "Coasterpedia": "https://coasterpedia.net/wiki/PortAventura",
       "Wikipedia": "https://en.wikipedia.org/wiki/PortAventura",
-      "Official Website": "https://www.portaventuraworld.com/",
-      "RCDB": null
+      "Official Website": "https://www.portaventuraworld.com/"
     },
     {
       "Park Index": 35,
@@ -312,8 +278,7 @@
       "Region": "Madrid, Spain",
       "Coasterpedia": "https://coasterpedia.net/wiki/Parque_Warner_Madrid",
       "Wikipedia": "https://en.wikipedia.org/wiki/Parque_Warner_Madrid",
-      "Official Website": "https://www.parquewarner.com/",
-      "RCDB": null
+      "Official Website": "https://www.parquewarner.com/"
     },
     {
       "Park Index": 36,
@@ -321,8 +286,7 @@
       "Region": "North Rhine-Westphalia, Germany",
       "Coasterpedia": "https://coasterpedia.net/wiki/Phantasialand",
       "Wikipedia": "https://en.wikipedia.org/wiki/Phantasialand",
-      "Official Website": "https://www.phantasialand.de/",
-      "RCDB": null
+      "Official Website": "https://www.phantasialand.de/"
     },
     {
       "Park Index": 37,
@@ -330,8 +294,7 @@
       "Region": "Baden-Württemberg, Germany",
       "Coasterpedia": "https://coasterpedia.net/wiki/Europa-Park",
       "Wikipedia": "https://en.wikipedia.org/wiki/Europa-Park",
-      "Official Website": "https://www.europapark.de/",
-      "RCDB": null
+      "Official Website": "https://www.europapark.de/"
     },
     {
       "Park Index": 38,
@@ -339,8 +302,7 @@
       "Region": "Kappel-Grafenhausen, Germany",
       "Coasterpedia": "https://coasterpedia.net/wiki/Funny_World",
       "Wikipedia": "https://en.wikipedia.org/wiki/Funny_World",
-      "Official Website": "https://www.funny-world.de/",
-      "RCDB": null
+      "Official Website": "https://www.funny-world.de/"
     },
     {
       "Park Index": 39,
@@ -348,8 +310,7 @@
       "Region": "Pembrokeshire, Wales",
       "Coasterpedia": "https://coasterpedia.net/wiki/Oakwood_Theme_Park",
       "Wikipedia": "https://en.wikipedia.org/wiki/Oakwood_Theme_Park",
-      "Official Website": "https://www.oakwoodthemepark.co.uk/",
-      "RCDB": null
+      "Official Website": "https://www.oakwoodthemepark.co.uk/"
     },
     {
       "Park Index": 40,
@@ -357,8 +318,7 @@
       "Region": "North Rhine-Westphalia, Germany",
       "Coasterpedia": "https://coasterpedia.net/wiki/Movie_Park_Germany",
       "Wikipedia": "https://en.wikipedia.org/wiki/Movie_Park_Germany",
-      "Official Website": "https://www.movieparkgermany.de/",
-      "RCDB": null
+      "Official Website": "https://www.movieparkgermany.de/"
     },
     {
       "Park Index": 41,
@@ -366,8 +326,7 @@
       "Region": "West Flanders, Belgium",
       "Coasterpedia": "https://coasterpedia.net/wiki/Plopsaland_de_Panne",
       "Wikipedia": "https://en.wikipedia.org/wiki/Plopsaland_de_Panne",
-      "Official Website": "https://www.plopsalanddepanne.be/",
-      "RCDB": null
+      "Official Website": "https://www.plopsalanddepanne.be/"
     },
     {
       "Park Index": 42,
@@ -375,8 +334,7 @@
       "Region": "IA,USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Lost_Island_Themepark",
       "Wikipedia": "https://en.wikipedia.org/wiki/Lost_Island_Themepark",
-      "Official Website": "https://www.thelostisland.com/",
-      "RCDB": null
+      "Official Website": "https://www.thelostisland.com/"
     },
     {
       "Park Index": 43,
@@ -384,8 +342,7 @@
       "Region": "Sevenum, Netherlands",
       "Coasterpedia": "https://coasterpedia.net/wiki/Toverland",
       "Wikipedia": "https://en.wikipedia.org/wiki/Toverland",
-      "Official Website": "https://www.toverland.com/",
-      "RCDB": null
+      "Official Website": "https://www.toverland.com/"
     },
     {
       "Park Index": 44,
@@ -393,8 +350,7 @@
       "Region": "Kaatsheuvel, Netherlands",
       "Coasterpedia": "https://coasterpedia.net/wiki/Efteling",
       "Wikipedia": "https://en.wikipedia.org/wiki/Efteling",
-      "Official Website": "https://www.efteling.com/",
-      "RCDB": null
+      "Official Website": "https://www.efteling.com/"
     },
     {
       "Park Index": 45,
@@ -402,8 +358,7 @@
       "Region": "Plailly, Picardy, France",
       "Coasterpedia": "https://coasterpedia.net/wiki/Parc_Astérix",
       "Wikipedia": "https://en.wikipedia.org/wiki/Parc_Astérix",
-      "Official Website": "https://www.parcasterix.fr/",
-      "RCDB": null
+      "Official Website": "https://www.parcasterix.fr/"
     },
     {
       "Park Index": 46,
@@ -411,8 +366,7 @@
       "Region": "Cleebronn, Germany",
       "Coasterpedia": "https://coasterpedia.net/wiki/Tripsdrill",
       "Wikipedia": "https://en.wikipedia.org/wiki/Tripsdrill",
-      "Official Website": "https://tripsdrill.de/",
-      "RCDB": null
+      "Official Website": "https://tripsdrill.de/"
     },
     {
       "Park Index": 47,
@@ -420,8 +374,7 @@
       "Region": "Ypres, Belgium",
       "Coasterpedia": "https://coasterpedia.net/wiki/Bellewaerde",
       "Wikipedia": "https://en.wikipedia.org/wiki/Bellewaerde",
-      "Official Website": "https://www.bellewaerde.be/",
-      "RCDB": null
+      "Official Website": "https://www.bellewaerde.be/"
     },
     {
       "Park Index": 48,
@@ -429,8 +382,7 @@
       "Region": "Biddinghuizen, Netherlands",
       "Coasterpedia": "https://coasterpedia.net/wiki/Walibi_Holland",
       "Wikipedia": "https://en.wikipedia.org/wiki/Walibi_Holland",
-      "Official Website": "https://www.walibi.nl/",
-      "RCDB": null
+      "Official Website": "https://www.walibi.nl/"
     },
     {
       "Park Index": 49,
@@ -438,8 +390,7 @@
       "Region": "Wavre, Belgium",
       "Coasterpedia": "https://coasterpedia.net/wiki/Walibi_Belgium",
       "Wikipedia": "https://en.wikipedia.org/wiki/Walibi_Belgium",
-      "Official Website": "https://www.walibi.be/",
-      "RCDB": null
+      "Official Website": "https://www.walibi.be/"
     },
     {
       "Park Index": 50,
@@ -447,8 +398,7 @@
       "Region": "Les Avenières, France",
       "Coasterpedia": "https://coasterpedia.net/wiki/Walibi_Rhône-Alpes",
       "Wikipedia": "https://en.wikipedia.org/wiki/Walibi_Rhône-Alpes",
-      "Official Website": "https://www.walibi.fr/",
-      "RCDB": null
+      "Official Website": "https://www.walibi.fr/"
     },
     {
       "Park Index": 51,
@@ -456,8 +406,7 @@
       "Region": "Coomera, QLD, Australia",
       "Coasterpedia": "https://coasterpedia.net/wiki/Dreamworld",
       "Wikipedia": "https://en.wikipedia.org/wiki/Dreamworld_(Australia)",
-      "Official Website": "https://www.dreamworld.com.au/",
-      "RCDB": null
+      "Official Website": "https://www.dreamworld.com.au/"
     },
     {
       "Park Index": 52,
@@ -465,8 +414,7 @@
       "Region": "Sydney, NSW, Australia",
       "Coasterpedia": "https://coasterpedia.net/wiki/Luna_Park_Sydney",
       "Wikipedia": "https://en.wikipedia.org/wiki/Luna_Park_Sydney",
-      "Official Website": "https://www.lunaparksydney.com/",
-      "RCDB": null
+      "Official Website": "https://www.lunaparksydney.com/"
     },
     {
       "Park Index": 53,
@@ -474,8 +422,7 @@
       "Region": "Oxenford, QLD, Australia",
       "Coasterpedia": "https://coasterpedia.net/wiki/Warner_Bros._Movie_World",
       "Wikipedia": "https://en.wikipedia.org/wiki/Warner_Bros._Movie_World",
-      "Official Website": "https://movieworld.com.au/",
-      "RCDB": null
+      "Official Website": "https://movieworld.com.au/"
     },
     {
       "Park Index": 54,
@@ -483,8 +430,7 @@
       "Region": "Melbourne, VIC, Australia",
       "Coasterpedia": "https://coasterpedia.net/wiki/Luna_Park_Melbourne",
       "Wikipedia": "https://en.wikipedia.org/wiki/Luna_Park_Melbourne",
-      "Official Website": "https://lunapark.com.au/",
-      "RCDB": null
+      "Official Website": "https://lunapark.com.au/"
     },
     {
       "Park Index": 55,
@@ -492,8 +438,7 @@
       "Region": "Bay Lake, FL, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Magic_Kingdom",
       "Wikipedia": "https://en.wikipedia.org/wiki/Magic_Kingdom",
-      "Official Website": "https://disneyworld.disney.go.com/destinations/magic-kingdom/",
-      "RCDB": null
+      "Official Website": "https://disneyworld.disney.go.com/destinations/magic-kingdom/"
     },
     {
       "Park Index": 56,
@@ -501,8 +446,7 @@
       "Region": "Bay Lake, FL, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/EPCOT",
       "Wikipedia": "https://en.wikipedia.org/wiki/EPCOT",
-      "Official Website": "https://disneyworld.disney.go.com/destinations/epcot/",
-      "RCDB": null
+      "Official Website": "https://disneyworld.disney.go.com/destinations/epcot/"
     },
     {
       "Park Index": 57,
@@ -510,8 +454,7 @@
       "Region": "Bay Lake, FL, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Disney%27s_Hollywood_Studios",
       "Wikipedia": "https://en.wikipedia.org/wiki/Disney%27s_Hollywood_Studios",
-      "Official Website": "https://disneyworld.disney.go.com/destinations/hollywood-studios/",
-      "RCDB": null
+      "Official Website": "https://disneyworld.disney.go.com/destinations/hollywood-studios/"
     },
     {
       "Park Index": 58,
@@ -519,8 +462,7 @@
       "Region": "Bay Lake, FL, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Disney%27s_Animal_Kingdom",
       "Wikipedia": "https://en.wikipedia.org/wiki/Disney%27s_Animal_Kingdom",
-      "Official Website": "https://disneyworld.disney.go.com/destinations/animal-kingdom/",
-      "RCDB": null
+      "Official Website": "https://disneyworld.disney.go.com/destinations/animal-kingdom/"
     },
     {
       "Park Index": 59,
@@ -528,8 +470,7 @@
       "Region": "Anaheim, CA, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Disneyland_Park",
       "Wikipedia": "https://en.wikipedia.org/wiki/Disneyland",
-      "Official Website": "https://disneyland.disney.go.com/destinations/disneyland/",
-      "RCDB": null
+      "Official Website": "https://disneyland.disney.go.com/destinations/disneyland/"
     },
     {
       "Park Index": 60,
@@ -537,8 +478,7 @@
       "Region": "Anaheim, CA, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Disney_California_Adventure",
       "Wikipedia": "https://en.wikipedia.org/wiki/Disney_California_Adventure",
-      "Official Website": "https://disneyland.disney.go.com/destinations/disney-california-adventure/",
-      "RCDB": null
+      "Official Website": "https://disneyland.disney.go.com/destinations/disney-california-adventure/"
     },
     {
       "Park Index": 61,
@@ -546,8 +486,7 @@
       "Region": "Marne-la-Vallée, France",
       "Coasterpedia": "https://coasterpedia.net/wiki/Disneyland_Park_(Paris)",
       "Wikipedia": "https://en.wikipedia.org/wiki/Disneyland_Paris",
-      "Official Website": "https://www.disneylandparis.com/en-gb/destinations/disneyland-park/",
-      "RCDB": null
+      "Official Website": "https://www.disneylandparis.com/en-gb/destinations/disneyland-park/"
     },
     {
       "Park Index": 62,
@@ -555,8 +494,7 @@
       "Region": "Marne-la-Vallée, France",
       "Coasterpedia": "https://coasterpedia.net/wiki/Walt_Disney_Studios_Park",
       "Wikipedia": "https://en.wikipedia.org/wiki/Walt_Disney_Studios_Park",
-      "Official Website": "https://www.disneylandparis.com/en-gb/destinations/walt-disney-studios-park/",
-      "RCDB": null
+      "Official Website": "https://www.disneylandparis.com/en-gb/destinations/walt-disney-studios-park/"
     },
     {
       "Park Index": 63,
@@ -564,8 +502,7 @@
       "Region": "Urayasu, Chiba, Japan",
       "Coasterpedia": "https://coasterpedia.net/wiki/Tokyo_Disneyland",
       "Wikipedia": "https://en.wikipedia.org/wiki/Tokyo_Disneyland",
-      "Official Website": "https://www.tokyodisneyresort.jp/en/tdl/",
-      "RCDB": null
+      "Official Website": "https://www.tokyodisneyresort.jp/en/tdl/"
     },
     {
       "Park Index": 64,
@@ -573,8 +510,7 @@
       "Region": "Urayasu, Chiba, Japan",
       "Coasterpedia": "https://coasterpedia.net/wiki/Tokyo_DisneySea",
       "Wikipedia": "https://en.wikipedia.org/wiki/Tokyo_DisneySea",
-      "Official Website": "https://www.tokyodisneyresort.jp/en/tds/",
-      "RCDB": null
+      "Official Website": "https://www.tokyodisneyresort.jp/en/tds/"
     },
     {
       "Park Index": 65,
@@ -582,8 +518,7 @@
       "Region": "Penny’s Bay, Lantau Island, Hong Kong",
       "Coasterpedia": "https://coasterpedia.net/wiki/Hong_Kong_Disneyland",
       "Wikipedia": "https://en.wikipedia.org/wiki/Hong_Kong_Disneyland",
-      "Official Website": "https://www.hongkongdisneyland.com/",
-      "RCDB": null
+      "Official Website": "https://www.hongkongdisneyland.com/"
     },
     {
       "Park Index": 66,
@@ -591,8 +526,7 @@
       "Region": "Pudong, Shanghai, China",
       "Coasterpedia": "https://coasterpedia.net/wiki/Shanghai_Disneyland",
       "Wikipedia": "https://en.wikipedia.org/wiki/Shanghai_Disneyland",
-      "Official Website": "https://www.shanghaidisneyresort.com/en/",
-      "RCDB": null
+      "Official Website": "https://www.shanghaidisneyresort.com/en/"
     },
     {
       "Park Index": 67,
@@ -600,8 +534,7 @@
       "Region": "Bowie, MD, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_America",
       "Wikipedia": "https://en.wikipedia.org/wiki/Six_Flags_America",
-      "Official Website": "https://www.sixflags.com/america",
-      "RCDB": null
+      "Official Website": "https://www.sixflags.com/america"
     },
     {
       "Park Index": 68,
@@ -609,8 +542,7 @@
       "Region": "Darien Center, NY, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_Darien_Lake",
       "Wikipedia": "https://en.wikipedia.org/wiki/Six_Flags_Darien_Lake",
-      "Official Website": "https://www.sixflags.com/darienlake",
-      "RCDB": null
+      "Official Website": "https://www.sixflags.com/darienlake"
     },
     {
       "Park Index": 69,
@@ -618,8 +550,7 @@
       "Region": "Vallejo, CA, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_Discovery_Kingdom",
       "Wikipedia": "https://en.wikipedia.org/wiki/Six_Flags_Discovery_Kingdom",
-      "Official Website": "https://www.sixflags.com/discoverykingdom",
-      "RCDB": null
+      "Official Website": "https://www.sixflags.com/discoverykingdom"
     },
     {
       "Park Index": 14,
@@ -627,8 +558,7 @@
       "Region": "San Antonio, TX, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_Fiesta_Texas",
       "Wikipedia": "https://en.wikipedia.org/wiki/Six_Flags_Fiesta_Texas",
-      "Official Website": "https://www.sixflags.com/fiestatexas",
-      "RCDB": null
+      "Official Website": "https://www.sixflags.com/fiestatexas"
     },
     {
       "Park Index": 14,
@@ -636,8 +566,7 @@
       "Region": "Jackson, NJ, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_Great_Adventure",
       "Wikipedia": "https://en.wikipedia.org/wiki/Six_Flags_Great_Adventure",
-      "Official Website": "https://www.sixflags.com/greatadventure",
-      "RCDB": null
+      "Official Website": "https://www.sixflags.com/greatadventure"
     },
     {
       "Park Index": 14,
@@ -645,8 +574,7 @@
       "Region": "Gurnee, IL, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_Great_America",
       "Wikipedia": "https://en.wikipedia.org/wiki/Six_Flags_Great_America",
-      "Official Website": "https://www.sixflags.com/greatamerica",
-      "RCDB": null
+      "Official Website": "https://www.sixflags.com/greatamerica"
     },
     {
       "Park Index": 14,
@@ -654,8 +582,7 @@
       "Region": "Queensbury, NY, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_Great_Escape",
       "Wikipedia": "https://en.wikipedia.org/wiki/Six_Flags_Great_Escape",
-      "Official Website": "https://www.sixflags.com/greatescape",
-      "RCDB": null
+      "Official Website": "https://www.sixflags.com/greatescape"
     },
     {
       "Park Index": 14,
@@ -663,8 +590,7 @@
       "Region": "Valencia, CA, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_Magic_Mountain",
       "Wikipedia": "https://en.wikipedia.org/wiki/Six_Flags_Magic_Mountain",
-      "Official Website": "https://www.sixflags.com/magicmountain",
-      "RCDB": null
+      "Official Website": "https://www.sixflags.com/magicmountain"
     },
     {
       "Park Index": 15,
@@ -672,8 +598,7 @@
       "Region": "Mexico City, Mexico",
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_Mexico",
       "Wikipedia": "https://en.wikipedia.org/wiki/Six_Flags_Mexico",
-      "Official Website": "https://www.sixflags.com/mexico",
-      "RCDB": null
+      "Official Website": "https://www.sixflags.com/mexico"
     },
     {
       "Park Index": 15,
@@ -681,8 +606,7 @@
       "Region": "Agawam, MA, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_New_England",
       "Wikipedia": "https://en.wikipedia.org/wiki/Six_Flags_New_England",
-      "Official Website": "https://www.sixflags.com/newengland",
-      "RCDB": null
+      "Official Website": "https://www.sixflags.com/newengland"
     },
     {
       "Park Index": 15,
@@ -690,8 +614,7 @@
       "Region": "Austell, GA, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_Over_Georgia",
       "Wikipedia": "https://en.wikipedia.org/wiki/Six_Flags_Over_Georgia",
-      "Official Website": "https://www.sixflags.com/america",
-      "RCDB": null
+      "Official Website": "https://www.sixflags.com/america"
     },
     {
       "Park Index": 15,
@@ -699,8 +622,7 @@
       "Region": "Arlington, TX, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_Over_Texas",
       "Wikipedia": "https://en.wikipedia.org/wiki/Six_Flags_Over_Texas",
-      "Official Website": "https://www.sixflags.com/darienlake",
-      "RCDB": null
+      "Official Website": "https://www.sixflags.com/darienlake"
     },
     {
       "Park Index": 15,
@@ -708,8 +630,7 @@
       "Region": "Eureka, MO, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_St._Louis",
       "Wikipedia": "https://en.wikipedia.org/wiki/Six_Flags_St._Louis",
-      "Official Website": "https://www.sixflags.com/discoverykingdom",
-      "RCDB": null
+      "Official Website": "https://www.sixflags.com/discoverykingdom"
     },
     {
       "Park Index": 15,
@@ -717,8 +638,7 @@
       "Region": "Santa Clara, CA, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/California%27s_Great_America",
       "Wikipedia": "https://en.wikipedia.org/wiki/California%27s_Great_America",
-      "Official Website": "https://www.sixflags.com/fiestatexas",
-      "RCDB": null
+      "Official Website": "https://www.sixflags.com/fiestatexas"
     },
     {
       "Park Index": 15,
@@ -726,8 +646,7 @@
       "Region": "Vaughan, ON, Canada",
       "Coasterpedia": "https://coasterpedia.net/wiki/Canada%27s_Wonderland",
       "Wikipedia": "https://en.wikipedia.org/wiki/Canada%27s_Wonderland",
-      "Official Website": "https://www.sixflags.com/greatadventure",
-      "RCDB": null
+      "Official Website": "https://www.sixflags.com/greatadventure"
     },
     {
       "Park Index": 15,
@@ -735,8 +654,7 @@
       "Region": "Charlotte, NC, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Carowinds",
       "Wikipedia": "https://en.wikipedia.org/wiki/Carowinds",
-      "Official Website": "https://www.sixflags.com/greatamerica",
-      "RCDB": null
+      "Official Website": "https://www.sixflags.com/greatamerica"
     },
     {
       "Park Index": 16,
@@ -744,8 +662,7 @@
       "Region": "Sandusky, OH, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Cedar_Point",
       "Wikipedia": "https://en.wikipedia.org/wiki/Cedar_Point",
-      "Official Website": "https://www.sixflags.com/greatescape",
-      "RCDB": null
+      "Official Website": "https://www.sixflags.com/greatescape"
     },
     {
       "Park Index": 16,
@@ -753,8 +670,7 @@
       "Region": "Allentown, PA, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Dorney_Park",
       "Wikipedia": "https://en.wikipedia.org/wiki/Dorney_Park_&_Wildwater_Kingdom",
-      "Official Website": "https://www.sixflags.com/magicmountain",
-      "RCDB": null
+      "Official Website": "https://www.sixflags.com/magicmountain"
     },
     {
       "Park Index": 16,
@@ -762,8 +678,7 @@
       "Region": "Doswell, VA, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Kings_Dominion",
       "Wikipedia": "https://en.wikipedia.org/wiki/Kings_Dominion",
-      "Official Website": "https://www.sixflags.com/mexico",
-      "RCDB": null
+      "Official Website": "https://www.sixflags.com/mexico"
     },
     {
       "Park Index": 16,
@@ -771,8 +686,7 @@
       "Region": "Mason, OH, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Kings_Island",
       "Wikipedia": "https://en.wikipedia.org/wiki/Kings_Island",
-      "Official Website": "https://www.sixflags.com/newengland",
-      "RCDB": null
+      "Official Website": "https://www.sixflags.com/newengland"
     },
     {
       "Park Index": 16,
@@ -780,8 +694,7 @@
       "Region": "Buena Park, CA, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Knott%27s_Berry_Farm",
       "Wikipedia": "https://en.wikipedia.org/wiki/Knott%27s_Berry_Farm",
-      "Official Website": "https://www.knotts.com/",
-      "RCDB": null
+      "Official Website": "https://www.knotts.com/"
     },
     {
       "Park Index": 16,
@@ -789,8 +702,7 @@
       "Region": "Muskegon, MI, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Michigan%27s_Adventure",
       "Wikipedia": "https://en.wikipedia.org/wiki/Michigan%27s_Adventure",
-      "Official Website": "https://www.miadventure.com/",
-      "RCDB": null
+      "Official Website": "https://www.miadventure.com/"
     },
     {
       "Park Index": 16,
@@ -798,8 +710,7 @@
       "Region": "Shakopee, MN, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Valleyfair",
       "Wikipedia": "https://en.wikipedia.org/wiki/Valleyfair",
-      "Official Website": "https://www.valleyfair.com/",
-      "RCDB": null
+      "Official Website": "https://www.valleyfair.com/"
     },
     {
       "Park Index": 16,
@@ -807,8 +718,7 @@
       "Region": "Kansas City, MO, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Worlds_of_Fun",
       "Wikipedia": "https://en.wikipedia.org/wiki/Worlds_of_Fun",
-      "Official Website": "https://www.worldsoffun.com/",
-      "RCDB": null
+      "Official Website": "https://www.worldsoffun.com/"
     },
     {
       "Park Index": 16,
@@ -816,8 +726,7 @@
       "Region": "Branson, MO, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Silver_Dollar_City",
       "Wikipedia": "https://en.wikipedia.org/wiki/Silver_Dollar_City",
-      "Official Website": "https://www.silverdollarcity.com/",
-      "RCDB": null
+      "Official Website": "https://www.silverdollarcity.com/"
     },
     {
       "Park Index": 16,
@@ -825,8 +734,7 @@
       "Region": "Orlando, FL, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Fun_Spot_America",
       "Wikipedia": "https://en.wikipedia.org/wiki/Fun_Spot_America",
-      "Official Website": "https://fun-spot.com/orlando/",
-      "RCDB": null
+      "Official Website": "https://fun-spot.com/orlando/"
     },
     {
       "Park Index": 17,
@@ -834,8 +742,7 @@
       "Region": "Steel",
       "Coasterpedia": "March 22 2002",
       "Wikipedia": "Intamin",
-      "Official Website": "10 Inversion Roller Coaster",
-      "RCDB": null
+      "Official Website": "10 Inversion Roller Coaster"
     },
     {
       "Park Index": 17,
@@ -843,8 +750,7 @@
       "Region": "Steel",
       "Coasterpedia": "March 10 2007",
       "Wikipedia": "Mack Rides",
-      "Official Website": "Powered Coaster",
-      "RCDB": null
+      "Official Website": "Powered Coaster"
     },
     {
       "Park Index": 17,
@@ -852,8 +758,7 @@
       "Region": "Steel",
       "Coasterpedia": "May 24 2024",
       "Wikipedia": "Mack Rides",
-      "Official Website": "Hyper Coaster (Custom)",
-      "RCDB": null
+      "Official Website": "Hyper Coaster (Custom)"
     },
     {
       "Park Index": 17,
@@ -861,8 +766,7 @@
       "Region": "Steel",
       "Coasterpedia": "April 5 2003",
       "Wikipedia": "https://en.wikipedia.org/wiki/Universal_Studios_Singapore",
-      "Official Website": "Inverted Coaster",
-      "RCDB": null
+      "Official Website": "Inverted Coaster"
     },
     {
       "Park Index": 17,
@@ -870,8 +774,7 @@
       "Region": "Steel",
       "Coasterpedia": "March 14 2009",
       "Wikipedia": "Gerstlauer",
-      "Official Website": "Eurofighter (Custom)",
-      "RCDB": null
+      "Official Website": "Eurofighter (Custom)"
     },
     {
       "Park Index": 17,
@@ -879,8 +782,7 @@
       "Region": "Steel",
       "Coasterpedia": "March 15 2006",
       "Wikipedia": "Intamin",
-      "Official Website": "Hydraulic Launch Coaster",
-      "RCDB": null
+      "Official Website": "Hydraulic Launch Coaster"
     },
     {
       "Park Index": 17,
@@ -888,8 +790,7 @@
       "Region": "Steel",
       "Coasterpedia": "March 15 2012",
       "Wikipedia": "https://en.wikipedia.org/wiki/Universal_Studios_Singapore",
-      "Official Website": "Wing Coaster (Custom)",
-      "RCDB": null
+      "Official Website": "Wing Coaster (Custom)"
     },
     {
       "Park Index": 17,
@@ -897,8 +798,7 @@
       "Region": "Steel",
       "Coasterpedia": "March 23 1996",
       "Wikipedia": "Vekoma",
-      "Official Website": "Enigma",
-      "RCDB": null
+      "Official Website": "Enigma"
     },
     {
       "Park Index": 18,
@@ -906,8 +806,7 @@
       "Region": "Steel",
       "Coasterpedia": "May 15 2003",
       "Wikipedia": "https://en.wikipedia.org/wiki/Universal_Studios_Singapore",
-      "Official Website": "Wing Coaster (Custom)",
-      "RCDB": null
+      "Official Website": "Wing Coaster (Custom)"
     },
     {
       "Park Index": 18,
@@ -915,8 +814,7 @@
       "Region": "Steel",
       "Coasterpedia": "March 27 2004",
       "Wikipedia": "Maurer",
-      "Official Website": "Xtended SC 3000 (Spinning)",
-      "RCDB": null
+      "Official Website": "Xtended SC 3000 (Spinning)"
     },
     {
       "Park Index": 18,
@@ -924,8 +822,7 @@
       "Region": "Steel",
       "Coasterpedia": 1998,
       "Wikipedia": "Maurer",
-      "Official Website": "Wilde Maus Classic",
-      "RCDB": null
+      "Official Website": "Wilde Maus Classic"
     },
     {
       "Park Index": 18,
@@ -933,8 +830,7 @@
       "Region": "Steel",
       "Coasterpedia": 1987,
       "Wikipedia": "Mack Rides",
-      "Official Website": "Powered Coaster",
-      "RCDB": null
+      "Official Website": "Powered Coaster"
     },
     {
       "Park Index": 18,
@@ -942,8 +838,7 @@
       "Region": "Steel",
       "Coasterpedia": "April 11 1990",
       "Wikipedia": "Vekoma / Arrow Dynamics",
-      "Official Website": "Suspended Coaster",
-      "RCDB": null
+      "Official Website": "Suspended Coaster"
     },
     {
       "Park Index": 106,
@@ -951,8 +846,7 @@
       "Region": "Dubai, UAE",
       "Coasterpedia": "https://coasterpedia.net/wiki/IMG_Worlds_of_Adventure",
       "Wikipedia": "https://en.wikipedia.org/wiki/IMG_Worlds_of_Adventure",
-      "Official Website": "https://www.imgworlds.com/",
-      "RCDB": null
+      "Official Website": "https://www.imgworlds.com/"
     },
     {
       "Park Index": 107,
@@ -960,8 +854,7 @@
       "Region": "East Rutherford, NJ, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Nickelodeon_Universe_American_Dream",
       "Wikipedia": "https://en.wikipedia.org/wiki/Nickelodeon_Universe",
-      "Official Website": "https://mallofamerica.com/directory/nickelodeon-universe",
-      "RCDB": null
+      "Official Website": "https://mallofamerica.com/directory/nickelodeon-universe"
     },
     {
       "Park Index": 108,
@@ -969,8 +862,7 @@
       "Region": "Altoona, PA, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Lakemont_Park",
       "Wikipedia": null,
-      "Official Website": "https://lakemontparkfun.com/",
-      "RCDB": null
+      "Official Website": "https://lakemontparkfun.com/"
     },
     {
       "Park Index": 109,
@@ -978,8 +870,7 @@
       "Region": "Farmington, UT, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Lagoon",
       "Wikipedia": "https://en.wikipedia.org/wiki/Lagoon_(amusement_park)",
-      "Official Website": "https://www.lagoonpark.com/",
-      "RCDB": null
+      "Official Website": "https://www.lagoonpark.com/"
     }
   ]
 }

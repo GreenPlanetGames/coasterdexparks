@@ -16,4 +16,12 @@ This Data set was constructed by hand for the Mobile App CoasterDex. An App that
 
 Feel free to use this in your projects, but please attribute it to Coasterpedia, Wikipedia, and this database correctly. 
 
+----------------------------------------------------------------------------------------------
+
+Other information: 
+
+This database is still under development and only contains limited data. **It is incomplete.** Updates will be pushed over time however the current dataset only contains 23 rollercoasters, 0 flat rides, and 109 parks. 
+
+More data will be added over time. 
+
 

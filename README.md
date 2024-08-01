@@ -2,7 +2,7 @@
 
 License:
 
-The majority of Data was Sourced from Wikipedia and Coasterpedia. That data is under CC BY-SA 4.0. 
+The majority of Data was Sourced from Wikipedia and Coasterpedia (other sources include: Park and Manufacturer Statistics). That data is under CC BY-SA 4.0. 
 
 This Data is also licensed Under CC BY-SA 4.0.
 

@@ -4,7 +4,7 @@
   
     {
       "CoasterID": 84,
-      "Park ID": 16.0,
+      "Park ID": 16,
       "name": "Galactica",
       "type": "Flying Coaster (Custom)",
       "opened": "March 16 2002",
@@ -24,7 +24,7 @@
     },
     {
       "CoasterID": 85,
-      "Park ID": 16.0,
+      "Park ID": 16,
       "name": "Nemesis Reborn",
       "type": "Inverted Coaster (Custom)",
       "opened": "March 19 1994 (March 16 2024)",
@@ -44,7 +44,7 @@
     },
     {
       "CoasterID": 86,
-      "Park ID": 16.0,
+      "Park ID": 16,
       "name": "Oblivion",
       "type": "Dive Coaster (Custom)",
       "opened": "March 14 1998",
@@ -64,7 +64,7 @@
     },
     {
       "CoasterID": 87,
-      "Park ID": 16.0,
+      "Park ID": 16,
       "name": "Octonauts Rollercoaster Adventure",
       "type": "Junior Coaster - J2SK 143m",
       "opened": "March 21 2015",
@@ -84,7 +84,7 @@
     },
     {
       "CoasterID": 88,
-      "Park ID": 16.0,
+      "Park ID": 16,
       "name": "Rita",
       "type": "Hydraulic Launch Coaster",
       "opened": "April 1 2015",
@@ -104,7 +104,7 @@
     },
     {
       "CoasterID": 89,
-      "Park ID": 16.0,
+      "Park ID": 16,
       "name": "Runaway Mine Train",
       "type": "Powered Coaster (Custom)",
       "opened": "1992",
@@ -124,7 +124,7 @@
     },
     {
       "CoasterID": 90,
-      "Park ID": 16.0,
+      "Park ID": 16,
       "name": "Smiler",
       "type": "Infinity Coaster 1140",
       "opened": "March 31 2013",
@@ -144,7 +144,7 @@
     },
     {
       "CoasterID": 91,
-      "Park ID": 16.0,
+      "Park ID": 16,
       "name": "Spinball Whizzer",
       "type": "Xtended SC 2200",
       "opened": "March 27 2004",
@@ -164,7 +164,7 @@
     },
     {
       "CoasterID": 92,
-      "Park ID": 16.0,
+      "Park ID": 16,
       "name": "Thirteen",
       "type": "Multi Dimensional Coaster",
       "opened": "March 20 2010",
@@ -184,7 +184,7 @@
     },
     {
       "CoasterID": 93,
-      "Park ID": 16.0,
+      "Park ID": 16,
       "name": "Wicker Man",
       "type": "Wooden Coaster",
       "opened": "March 20 2018",
@@ -204,7 +204,7 @@
     },
     {
       "CoasterID": 94,
-      "Park ID": 17.0,
+      "Park ID": 17,
       "name": "Colossus",
       "type": "10 Inversion Roller Coaster",
       "opened": "March 22 2002",
@@ -224,7 +224,7 @@
     },
     {
       "CoasterID": 95,
-      "Park ID": 17.0,
+      "Park ID": 17,
       "name": "Flying Fish",
       "type": "Powered Coaster",
       "opened": "March 10 2007",
@@ -244,7 +244,7 @@
     },
     {
       "CoasterID": 96,
-      "Park ID": 17.0,
+      "Park ID": 17,
       "name": "Hyperia",
       "type": "Hyper Coaster (Custom)",
       "opened": "May 24 2024",
@@ -264,7 +264,7 @@
     },
     {
       "CoasterID": 97,
-      "Park ID": 17.0,
+      "Park ID": 17,
       "name": "Nemesis Inferno",
       "type": "Inverted Coaster",
       "opened": "April 5 2003",
@@ -284,7 +284,7 @@
     },
     {
       "CoasterID": 98,
-      "Park ID": 17.0,
+      "Park ID": 17,
       "name": "Saw - The Ride",
       "type": "Eurofighter (Custom)",
       "opened": "March 14 2009",
@@ -304,7 +304,7 @@
     },
     {
       "CoasterID": 99,
-      "Park ID": 17.0,
+      "Park ID": 17,
       "name": "Stealth",
       "type": "Hydraulic Launch Coaster",
       "opened": "March 15 2006",
@@ -324,7 +324,7 @@
     },
     {
       "CoasterID": 100,
-      "Park ID": 17.0,
+      "Park ID": 17,
       "name": "Swarm",
       "type": "Wing Coaster (Custom)",
       "opened": "March 15 2012",
@@ -344,7 +344,7 @@
     },
     {
       "CoasterID": 101,
-      "Park ID": 17.0,
+      "Park ID": 17,
       "name": "Walking Dead: The Ride",
       "type": "Enigma",
       "opened": "March 23 1996",
@@ -364,7 +364,7 @@
     },
     {
       "CoasterID": 102,
-      "Park ID": 18.0,
+      "Park ID": 18,
       "name": "Mandrill Mayhem",
       "type": "Wing Coaster (Custom)",
       "opened": "May 15 2003",
@@ -384,7 +384,7 @@
     },
     {
       "CoasterID": 103,
-      "Park ID": 18.0,
+      "Park ID": 18,
       "name": "Dragon's Fury",
       "type": "Xtended SC 3000 (Spinning)",
       "opened": "March 27 2004",
@@ -404,7 +404,7 @@
     },
     {
       "CoasterID": 104,
-      "Park ID": 18.0,
+      "Park ID": 18,
       "name": "Rattlesnake",
       "type": "Wilde Maus Classic",
       "opened": "1998",
@@ -424,7 +424,7 @@
     },
     {
       "CoasterID": 105,
-      "Park ID": 18.0,
+      "Park ID": 18,
       "name": "Scorpion Express",
       "type": "Powered Coaster",
       "opened": "1987",
@@ -444,7 +444,7 @@
     },
     {
       "CoasterID": 106,
-      "Park ID": 18.0,
+      "Park ID": 18,
       "name": "Vampire",
       "type": "Suspended Coaster",
       "opened": "April 11 1990",
@@ -464,7 +464,7 @@
     },
     {
       "CoasterID": 107,
-      "Park ID": 19.0,
+      "Park ID": 18,
       "name": "Dragon",
       "type": "Sitdown Terrain",
       "opened": "1998",
@@ -484,7 +484,7 @@
     },
     {
       "CoasterID": 108,
-      "Park ID": 19.0,
+      "Park ID": 18,
       "name": "Dragon's Apprentice",
       "type": "Kiddie Sitdown",
       "opened": "1999",
@@ -504,7 +504,7 @@
     },
     {
       "CoasterID": 109,
-      "Park ID": 19.0,
+      "Park ID": 18,
       "name": "Duplo Dino Coaster",
       "type": "Kiddie Coaster",
       "opened": "March 14 2020",
@@ -524,7 +524,7 @@
     },
     {
       "CoasterID": 110,
-      "Park ID": 19.0,
+      "Park ID": 18,
       "name": "Minifigure Speedway (Legends)",
       "type": "Twin Shuttle",
       "opened": "April 6 2024",
@@ -544,7 +544,7 @@
     },
     {
       "CoasterID": 111,
-      "Park ID": 19.0,
+      "Park ID": 18,
       "name": "Minifigure Speedway (Allstars)",
       "type": "Twin Shuttle",
       "opened": "April 6 2025",

@@ -3,7 +3,7 @@
   "Coasters": [ 
   
     {
-      "CoasterID": 84.0,
+      "CoasterID": 84,
       "Park ID": 16.0,
       "name": "Galactica",
       "type": "Flying Coaster (Custom)",
@@ -23,7 +23,7 @@
       "RCDB": "https://rcdb.com/1458.htm"
     },
     {
-      "CoasterID": 85.0,
+      "CoasterID": 85,
       "Park ID": 16.0,
       "name": "Nemesis Reborn",
       "type": "Inverted Coaster (Custom)",
@@ -43,7 +43,7 @@
       "RCDB": "https://rcdb.com/776.htm"
     },
     {
-      "CoasterID": 86.0,
+      "CoasterID": 86,
       "Park ID": 16.0,
       "name": "Oblivion",
       "type": "Dive Coaster (Custom)",
@@ -63,7 +63,7 @@
       "RCDB": "https://rcdb.com/777.htm"
     },
     {
-      "CoasterID": 87.0,
+      "CoasterID": 87,
       "Park ID": 16.0,
       "name": "Octonauts Rollercoaster Adventure",
       "type": "Junior Coaster - J2SK 143m",
@@ -83,7 +83,7 @@
       "RCDB": "https://rcdb.com/12592.htm"
     },
     {
-      "CoasterID": 88.0,
+      "CoasterID": 88,
       "Park ID": 16.0,
       "name": "Rita",
       "type": "Hydraulic Launch Coaster",
@@ -103,7 +103,7 @@
       "RCDB": "https://rcdb.com/2787.htm"
     },
     {
-      "CoasterID": 89.0,
+      "CoasterID": 89,
       "Park ID": 16.0,
       "name": "Runaway Mine Train",
       "type": "Powered Coaster (Custom)",
@@ -123,7 +123,7 @@
       "RCDB": "https://rcdb.com/800.htm"
     },
     {
-      "CoasterID": 90.0,
+      "CoasterID": 90,
       "Park ID": 16.0,
       "name": "Smiler",
       "type": "Infinity Coaster 1140",
@@ -143,7 +143,7 @@
       "RCDB": "https://rcdb.com/11062.htm"
     },
     {
-      "CoasterID": 91.0,
+      "CoasterID": 91,
       "Park ID": 16.0,
       "name": "Spinball Whizzer",
       "type": "Xtended SC 2200",
@@ -163,7 +163,7 @@
       "RCDB": "https://rcdb.com/2472.htm"
     },
     {
-      "CoasterID": 92.0,
+      "CoasterID": 92,
       "Park ID": 16.0,
       "name": "Thirteen",
       "type": "Multi Dimensional Coaster",
@@ -183,7 +183,7 @@
       "RCDB": "https://rcdb.com/4463.htm"
     },
     {
-      "CoasterID": 93.0,
+      "CoasterID": 93,
       "Park ID": 16.0,
       "name": "Wicker Man",
       "type": "Wooden Coaster",
@@ -203,7 +203,7 @@
       "RCDB": "https://rcdb.com/15029.htm"
     },
     {
-      "CoasterID": 94.0,
+      "CoasterID": 94,
       "Park ID": 17.0,
       "name": "Colossus",
       "type": "10 Inversion Roller Coaster",
@@ -223,7 +223,7 @@
       "RCDB": "https://rcdb.com/1412.htm"
     },
     {
-      "CoasterID": 95.0,
+      "CoasterID": 95,
       "Park ID": 17.0,
       "name": "Flying Fish",
       "type": "Powered Coaster",
@@ -243,7 +243,7 @@
       "RCDB": "https://rcdb.com/847.htm"
     },
     {
-      "CoasterID": 96.0,
+      "CoasterID": 96,
       "Park ID": 17.0,
       "name": "Hyperia",
       "type": "Hyper Coaster (Custom)",
@@ -263,7 +263,7 @@
       "RCDB": "https://rcdb.com/20652.htm"
     },
     {
-      "CoasterID": 97.0,
+      "CoasterID": 97,
       "Park ID": 17.0,
       "name": "Nemesis Inferno",
       "type": "Inverted Coaster",
@@ -283,7 +283,7 @@
       "RCDB": "https://rcdb.com/1747.htm"
     },
     {
-      "CoasterID": 98.0,
+      "CoasterID": 98,
       "Park ID": 17.0,
       "name": "Saw - The Ride",
       "type": "Eurofighter (Custom)",
@@ -303,7 +303,7 @@
       "RCDB": "https://rcdb.com/4162.htm"
     },
     {
-      "CoasterID": 99.0,
+      "CoasterID": 99,
       "Park ID": 17.0,
       "name": "Stealth",
       "type": "Hydraulic Launch Coaster",
@@ -323,7 +323,7 @@
       "RCDB": "https://rcdb.com/3081.htm"
     },
     {
-      "CoasterID": 100.0,
+      "CoasterID": 100,
       "Park ID": 17.0,
       "name": "Swarm",
       "type": "Wing Coaster (Custom)",
@@ -343,7 +343,7 @@
       "RCDB": "https://rcdb.com/9820.htm"
     },
     {
-      "CoasterID": 101.0,
+      "CoasterID": 101,
       "Park ID": 17.0,
       "name": "Walking Dead: The Ride",
       "type": "Enigma",
@@ -363,7 +363,7 @@
       "RCDB": "https://rcdb.com/846.htm"
     },
     {
-      "CoasterID": 102.0,
+      "CoasterID": 102,
       "Park ID": 18.0,
       "name": "Mandrill Mayhem",
       "type": "Wing Coaster (Custom)",
@@ -383,7 +383,7 @@
       "RCDB": "https://rcdb.com/20349.htm"
     },
     {
-      "CoasterID": 103.0,
+      "CoasterID": 103,
       "Park ID": 18.0,
       "name": "Dragon's Fury",
       "type": "Xtended SC 3000 (Spinning)",
@@ -403,7 +403,7 @@
       "RCDB": "https://rcdb.com/2410.htm"
     },
     {
-      "CoasterID": 104.0,
+      "CoasterID": 104,
       "Park ID": 18.0,
       "name": "Rattlesnake",
       "type": "Wilde Maus Classic",
@@ -423,7 +423,7 @@
       "RCDB": "https://rcdb.com/785.htm"
     },
     {
-      "CoasterID": 105.0,
+      "CoasterID": 105,
       "Park ID": 18.0,
       "name": "Scorpion Express",
       "type": "Powered Coaster",
@@ -443,7 +443,7 @@
       "RCDB": "https://rcdb.com/786.htm"
     },
     {
-      "CoasterID": 106.0,
+      "CoasterID": 106,
       "Park ID": 18.0,
       "name": "Vampire",
       "type": "Suspended Coaster",
@@ -463,7 +463,7 @@
       "RCDB": "https://rcdb.com/784.htm"
     },
     {
-      "CoasterID": 107.0,
+      "CoasterID": 107,
       "Park ID": 19.0,
       "name": "Dragon",
       "type": "Sitdown Terrain",
@@ -483,7 +483,7 @@
       "RCDB": "https://rcdb.com/844.htm"
     },
     {
-      "CoasterID": 108.0,
+      "CoasterID": 108,
       "Park ID": 19.0,
       "name": "Dragon's Apprentice",
       "type": "Kiddie Sitdown",
@@ -503,7 +503,7 @@
       "RCDB": "https://rcdb.com/845.htm"
     },
     {
-      "CoasterID": 109.0,
+      "CoasterID": 109,
       "Park ID": 19.0,
       "name": "Duplo Dino Coaster",
       "type": "Kiddie Coaster",
@@ -523,7 +523,7 @@
       "RCDB": "https://rcdb.com/17692.htm"
     },
     {
-      "CoasterID": 110.0,
+      "CoasterID": 110,
       "Park ID": 19.0,
       "name": "Minifigure Speedway (Legends)",
       "type": "Twin Shuttle",
@@ -543,7 +543,7 @@
       "RCDB": "https://rcdb.com/21316.htm"
     },
     {
-      "CoasterID": 111.0,
+      "CoasterID": 111,
       "Park ID": 19.0,
       "name": "Minifigure Speedway (Allstars)",
       "type": "Twin Shuttle",

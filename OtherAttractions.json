@@ -1,571 +1,571 @@
 {
   "OtherAttractions": [
     {
-      "Park Id": 16,
+      "Park Id": "16",
       "Name": "Battle Galleons",
       "Manufacturer ": "Mack Rides",
       "Type ": "Splash Battle",
-      "Opening ": 2008
+      "Opening ": "2008"
     },
     {
-      "Park Id": 16,
+      "Park Id": "16",
       "Name": "Blade",
       "Manufacturer ": "HUSS",
       "Type ": "Pirate Ship",
-      "Opening ": 1980
+      "Opening ": "1980"
     },
     {
-      "Park Id": 16,
+      "Park Id": "16",
       "Name": "Bugbie Go Round",
       "Manufacturer ": "MSI Transportation",
       "Type ": "Roundabout",
-      "Opening ": 1995
+      "Opening ": "1995"
     },
     {
-      "Park Id": 16,
+      "Park Id": "16",
       "Name": "Congo River Rapids",
       "Manufacturer ": "Intamin",
       "Type ": "River Rapids",
-      "Opening ": 1986
+      "Opening ": "1986"
     },
     {
-      "Park Id": 16,
+      "Park Id": "16",
       "Name": "Curse at Alton Manor",
       "Manufacturer ": "Mack Rides",
       "Type ": "Tracked Dark Ride",
-      "Opening ": 1992
+      "Opening ": "1992"
     },
     {
-      "Park Id": 16,
+      "Park Id": "16",
       "Name": "Gangsta Granny: The Ride",
       "Manufacturer ": "Garmendale Engineering",
       "Type ": "Tracked Dark Ride",
-      "Opening ": 2021
+      "Opening ": "2021"
     },
     {
-      "Park Id": 16,
+      "Park Id": "16",
       "Name": "Get Set Go Tree Top Adventure",
       "Manufacturer ": "MSI Transportation",
       "Type ": "Monorail",
-      "Opening ": 1996
+      "Opening ": "1996"
     },
     {
-      "Park Id": 16,
+      "Park Id": "16",
       "Name": "Go Jetters Vroomster Zoom ride",
       "Manufacturer ": "Garmendale Engineering",
       "Type ": "Jets",
-      "Opening ": 2017
+      "Opening ": "2017"
     },
     {
-      "Park Id": 16,
+      "Park Id": "16",
       "Name": "Heave Ho",
       "Manufacturer ": "Zamperla",
       "Type ": "Rockin' Tug",
-      "Opening ": 2008
+      "Opening ": "2008"
     },
     {
-      "Park Id": 16,
+      "Park Id": "16",
       "Name": "Hex",
       "Manufacturer ": "Vekoma",
       "Type ": "Madhouse",
-      "Opening ": 2000
+      "Opening ": "2000"
     },
     {
-      "Park Id": 16,
+      "Park Id": "16",
       "Name": "In The Night Garden Magical Boat Ride",
       "Manufacturer ": "Mack Rides",
       "Type ": "Scenic Boat Ride",
-      "Opening ": 1989
+      "Opening ": "1989"
     },
     {
-      "Park Id": 16,
+      "Park Id": "16",
       "Name": "Marauder's Mayhem",
       "Manufacturer ": "Mack Rides",
       "Type ": "Teacups",
-      "Opening ": 1987
+      "Opening ": "1987"
     },
     {
-      "Park Id": 16,
+      "Park Id": "16",
       "Name": "Monorail",
       "Manufacturer ": "Von Roll",
       "Type ": "Monorail",
-      "Opening ": 1987
+      "Opening ": "1987"
     },
     {
-      "Park Id": 16,
+      "Park Id": "16",
       "Name": "Nemesis Sub-Terra",
       "Manufacturer ": "ABC Rides",
       "Type ": "Drop Tower",
-      "Opening ": 2012
+      "Opening ": "2012"
     },
     {
-      "Park Id": 16,
+      "Park Id": "16",
       "Name": "Peter Rabbit Hippity Hop",
       "Manufacturer ": "S&S Worldwide",
       "Type ": "Junior Drop Towerx2",
-      "Opening ": 2019
+      "Opening ": "2019"
     },
     {
-      "Park Id": 16,
+      "Park Id": "16",
       "Name": "Postman Pat Parcel Post",
       "Manufacturer ": "Metallbau Emmeln",
       "Type ": "Track Ride",
-      "Opening ": 2014
+      "Opening ": "2014"
     },
     {
-      "Park Id": 16,
+      "Park Id": "16",
       "Name": "Royal Carousel",
       "Manufacturer ": "Bertazzon",
       "Type ": "Carousel",
-      "Opening ": 1991
+      "Opening ": "1991"
     },
     {
-      "Park Id": 16,
+      "Park Id": "16",
       "Name": "Skyride",
       "Manufacturer ": "POMA",
       "Type ": "Ropeway",
-      "Opening ": 1987
+      "Opening ": "1987"
     },
     {
-      "Park Id": 17,
+      "Park Id": "17",
       "Name": "Big Easy Bumpers",
       "Manufacturer ": "Bertazzon",
       "Type ": "Dodgems",
-      "Opening ": 2014
+      "Opening ": "2014"
     },
     {
-      "Park Id": 17,
+      "Park Id": "17",
       "Name": "Depth Charge",
       "Manufacturer ": "Aquatic",
       "Type ": "Dinghy Waterslides",
-      "Opening ": 1991
+      "Opening ": "1991"
     },
     {
-      "Park Id": 17,
+      "Park Id": "17",
       "Name": "Dobble Tea Party",
       "Manufacturer ": "Mack Rides",
       "Type ": "Teacups",
-      "Opening ": 1986
+      "Opening ": "1986"
     },
     {
-      "Park Id": 17,
+      "Park Id": "17",
       "Name": "Ghost Train",
       "Manufacturer ": "Severn LambSimworx",
       "Type ": "Simulator",
-      "Opening ": "2016-06-30T23:00:00.000Z"
+      "Opening ": "July 2016"
     },
     {
-      "Park Id": 17,
+      "Park Id": "17",
       "Name": "Detonator",
       "Manufacturer ": "Fabbri",
       "Type ": "Drop Tower",
-      "Opening ": "2001-03-31T23:00:00.000Z"
+      "Opening ": "April 2001"
     },
     {
-      "Park Id": 17,
+      "Park Id": "17",
       "Name": "High Striker",
       "Manufacturer ": "Zamperla",
       "Type ": "Junior Drop Tower",
-      "Opening ": 2017
+      "Opening ": "2017"
     },
     {
-      "Park Id": 17,
+      "Park Id": "17",
       "Name": "Mr. Monkey's Banana Ride",
       "Manufacturer ": "Metallbau Emmeln",
       "Type ": "Pirate Ship",
-      "Opening ": 1994
+      "Opening ": "1994"
     },
     {
-      "Park Id": 17,
+      "Park Id": "17",
       "Name": "Quantum",
       "Manufacturer ": "Fabbri",
       "Type ": "Flying Carpet",
-      "Opening ": 2003
+      "Opening ": "2003"
     },
     {
-      "Park Id": 17,
+      "Park Id": "17",
       "Name": "Rumba Rapids",
       "Manufacturer ": "Intamin",
       "Type ": "River Rapids",
-      "Opening ": 1987
+      "Opening ": "1987"
     },
     {
-      "Park Id": 17,
+      "Park Id": "17",
       "Name": "Rush",
       "Manufacturer ": "S&S Worldwide",
       "Type ": "Screamin' Swing",
-      "Opening ": "2005-04-30T23:00:00.000Z"
+      "Opening ": "May 2005"
     },
     {
-      "Park Id": 17,
+      "Park Id": "17",
       "Name": "Samurai",
       "Manufacturer ": "Mondial",
       "Type ": "Top Scan",
-      "Opening ": 2004
+      "Opening ": "2004"
     },
     {
-      "Park Id": 17,
+      "Park Id": "17",
       "Name": "Storm Surge",
       "Manufacturer ": "WhiteWater West",
       "Type ": "Spinning Rapids Ride",
-      "Opening ": "2011-03-01T00:00:00.000Z"
+      "Opening ": "March 2011"
     },
     {
-      "Park Id": 17,
+      "Park Id": "17",
       "Name": "Tidal Wave",
       "Manufacturer ": "Hopkins Rides",
       "Type ": "Shoot The Chute",
-      "Opening ": "2000-03-31T23:00:00.000Z"
+      "Opening ": "April 2000"
     },
     {
-      "Park Id": 17,
+      "Park Id": "17",
       "Name": "Vortex",
       "Manufacturer ": "KMG",
       "Type ": "Frisbee",
-      "Opening ": 2001
+      "Opening ": "2001"
     },
     {
-      "Park Id": 17,
+      "Park Id": "17",
       "Name": "Zodiac",
       "Manufacturer ": "HUSS",
       "Type ": "Enterprise",
-      "Opening ": 2006
+      "Opening ": "2006"
     },
     {
-      "Park Id": 18,
+      "Park Id": "18",
       "Name": "Adventure Tree",
       "Manufacturer ": "Bertazzon",
       "Type ": "Carousel",
-      "Opening ": 2017
+      "Opening ": "2017"
     },
     {
-      "Park Id": 18,
+      "Park Id": "18",
       "Name": "Barrel Bail Out",
       "Manufacturer ": "Zamperla",
       "Type ": "Twist 'n' Splash",
-      "Opening ": 2022
+      "Opening ": "2022"
     },
     {
-      "Park Id": 18,
+      "Park Id": "18",
       "Name": "Blue Barnacle",
       "Manufacturer ": "Metallbau Emmeln",
       "Type ": "Pirate Ship",
-      "Opening ": 2021
+      "Opening ": "2021"
     },
     {
-      "Park Id": 18,
+      "Park Id": "18",
       "Name": "Croc Drop",
       "Manufacturer ": "SBF Visa Group",
       "Type ": "Drop Tower",
-      "Opening ": 2021
+      "Opening ": "2021"
     },
     {
-      "Park Id": 18,
+      "Park Id": "18",
       "Name": "Elmer's Flying Jumbos",
       "Manufacturer ": "Barbieri",
       "Type ": "Jets",
-      "Opening ": 1987
+      "Opening ": "1987"
     },
     {
-      "Park Id": 18,
+      "Park Id": "18",
       "Name": "Griffin's Galleon",
       "Manufacturer ": "Zierer",
       "Type ": "Rockin' Tug",
-      "Opening ": 2004
+      "Opening ": "2004"
     },
     {
-      "Park Id": 18,
+      "Park Id": "18",
       "Name": "Gruffalo River Ride Adventure",
       "Manufacturer ": "W.G.H. Transportation Engineering",
       "Type ": "Dark Boat Ride",
-      "Opening ": 1990
+      "Opening ": "1990"
     },
     {
-      "Park Id": 18,
+      "Park Id": "18",
       "Name": "Jungle Bus",
       "Manufacturer ": "Zamperla",
       "Type ": "Junior Flying Carpet",
-      "Opening ": 2022
+      "Opening ": "2022"
     },
     {
-      "Park Id": 18,
+      "Park Id": "18",
       "Name": "Jungle Rangers",
       "Manufacturer ": "Garmendale Engineering",
       "Type ": "Track Ride",
-      "Opening ": 2020
+      "Opening ": "2020"
     },
     {
-      "Park Id": 18,
+      "Park Id": "18",
       "Name": "Kobra",
       "Manufacturer ": "Zamperla",
       "Type ": "Disk'O",
-      "Opening ": 2010
+      "Opening ": "2010"
     },
     {
-      "Park Id": 18,
+      "Park Id": "18",
       "Name": "Mamba Strike",
       "Manufacturer ": "SBF Visa Group",
       "Type ": "Miami",
-      "Opening ": 2023
+      "Opening ": "2023"
     },
     {
-      "Park Id": 18,
+      "Park Id": "18",
       "Name": "Monkey Swinger",
       "Manufacturer ": "Zierer",
       "Type ": "Waveswinger",
-      "Opening ": 2000
+      "Opening ": "2000"
     },
     {
-      "Park Id": 18,
+      "Park Id": "18",
       "Name": "Ostrich Stampede",
       "Manufacturer ": "SBF Visa Group",
       "Type ": "Jump & Smile",
-      "Opening ": 2023
+      "Opening ": "2023"
     },
     {
-      "Park Id": 18,
+      "Park Id": "18",
       "Name": "River Rafts",
       "Manufacturer ": "ABC Rides",
       "Type ": "Junior Log Flume",
-      "Opening ": 2020
+      "Opening ": "2020"
     },
     {
-      "Park Id": 18,
+      "Park Id": "18",
       "Name": "Room on the Broom - A Magical Journey",
       "Manufacturer ": "Merlin Entertainments",
       "Type ": "Walk-Through",
-      "Opening ": 2003
+      "Opening ": "2003"
     },
     {
-      "Park Id": 18,
+      "Park Id": "18",
       "Name": "Sea Dragons",
       "Manufacturer ": "Mack Rides",
       "Type ": "Roundabout",
-      "Opening ": 2004
+      "Opening ": "2004"
     },
     {
-      "Park Id": 18,
+      "Park Id": "18",
       "Name": "Seastorm",
       "Manufacturer ": "Mack Rides",
       "Type ": "Sea Storm",
-      "Opening ": 1995
+      "Opening ": "1995"
     },
     {
-      "Park Id": 18,
+      "Park Id": "18",
       "Name": "Tiger Rock",
       "Manufacturer ": "Mack Rides",
       "Type ": "Log Flume",
-      "Opening ": 1987
+      "Opening ": "1987"
     },
     {
-      "Park Id": 18,
+      "Park Id": "18",
       "Name": "Tiny Truckers",
       "Manufacturer ": "Zamperla",
       "Type ": "Track Ride",
-      "Opening ": 1993
+      "Opening ": "1993"
     },
     {
-      "Park Id": 18,
+      "Park Id": "18",
       "Name": "Tomb Blaster",
       "Manufacturer ": "Mack Rides",
       "Type ": "Tracked Dark Ride",
-      "Opening ": 1987
+      "Opening ": "1987"
     },
     {
-      "Park Id": 18,
+      "Park Id": "18",
       "Name": "Trawler Trouble",
       "Manufacturer ": "Zamperla",
       "Type ": "Rockin' Tug",
-      "Opening ": 2022
+      "Opening ": "2022"
     },
     {
-      "Park Id": 18,
+      "Park Id": "18",
       "Name": "Treetop Hoppers",
       "Manufacturer ": "Zamperla",
       "Type ": "Junior Drop Towerx2",
-      "Opening ": 2001
+      "Opening ": "2001"
     },
     {
-      "Park Id": 18,
+      "Park Id": "18",
       "Name": "Tuk Tuk Turmoil",
       "Manufacturer ": "Barbieri",
       "Type ": "Dodgems",
-      "Opening ": 2000
+      "Opening ": "2000"
     },
     {
-      "Park Id": 18,
+      "Park Id": "18",
       "Name": "ZUFARI: Ride into Africa",
       "Manufacturer ": "Unknown",
       "Type ": "Safari Trail",
-      "Opening ": 2013
+      "Opening ": "2013"
     },
     {
-      "Park Id": 19,
+      "Park Id": "19",
       "Name": "Aero Nomad",
       "Manufacturer ": "Zamperla",
       "Type ": "Junior Ferris Wheel",
-      "Opening ": 1996
+      "Opening ": "1996"
     },
     {
-      "Park Id": 19,
+      "Park Id": "19",
       "Name": "Balloon School",
       "Manufacturer ": "W.G.H. Transportation Engineering",
       "Type ": "Balloon Ride",
-      "Opening ": 1999
+      "Opening ": "1999"
     },
     {
-      "Park Id": 19,
+      "Park Id": "19",
       "Name": "Desert Chase",
       "Manufacturer ": "Bertazzon",
       "Type ": "Junior Carousel",
-      "Opening ": 1996
+      "Opening ": "1996"
     },
     {
-      "Park Id": 19,
+      "Park Id": "19",
       "Name": "Destiny's Bounty",
       "Manufacturer ": "Zamperla",
       "Type ": "Rockin' Tug",
-      "Opening ": 2008
+      "Opening ": "2008"
     },
     {
-      "Park Id": 19,
+      "Park Id": "19",
       "Name": "Duplo Airport",
       "Manufacturer ": "Zamperla",
       "Type ": "Flash Dance",
-      "Opening ": 1996
+      "Opening ": "1996"
     },
     {
-      "Park Id": 19,
+      "Park Id": "19",
       "Name": "Duplo Express",
       "Manufacturer ": "Unknown",
       "Type ": "Junior Railway",
-      "Opening ": 1996
+      "Opening ": "1996"
     },
     {
-      "Park Id": 19,
+      "Park Id": "19",
       "Name": "Fairy Tale Brook",
       "Manufacturer ": "W.G.H. Transportation Engineering",
       "Type ": "Scenic Boat Ride",
-      "Opening ": 1996
+      "Opening ": "1996"
     },
     {
-      "Park Id": 19,
+      "Park Id": "19",
       "Name": "Fire Academy",
       "Manufacturer ": "Metallbau Emmeln",
       "Type ": "Fire Academy",
-      "Opening ": 2005
+      "Opening ": "2005"
     },
     {
-      "Park Id": 19,
+      "Park Id": "19",
       "Name": "Fire and Ice Freefall",
       "Manufacturer ": "Zierer",
       "Type ": "Junior Drop Towerx2",
-      "Opening ": 2021
+      "Opening ": "2021"
     },
     {
-      "Park Id": 19,
+      "Park Id": "19",
       "Name": "Flight of the Sky Lion",
       "Manufacturer ": "Brogent Technologies",
       "Type ": "Flying Theatre",
-      "Opening ": 2021
+      "Opening ": "2021"
     },
     {
-      "Park Id": 19,
+      "Park Id": "19",
       "Name": "Haunted House – Monster Party",
       "Manufacturer ": "Vekoma",
       "Type ": "Madhouse",
-      "Opening ": 2019
+      "Opening ": "2019"
     },
     {
-      "Park Id": 19,
+      "Park Id": "19",
       "Name": "Hydra's Challenge",
       "Manufacturer ": "Zierer",
       "Type ": "Jet Ski",
-      "Opening ": 2000
+      "Opening ": "2000"
     },
     {
-      "Park Id": 19,
+      "Park Id": "19",
       "Name": "Jolly Rocker",
       "Manufacturer ": "HUSS",
       "Type ": "Pirate Ship",
-      "Opening ": 2010
+      "Opening ": "2010"
     },
     {
-      "Park Id": 19,
+      "Park Id": "19",
       "Name": "Laser Raiders",
       "Manufacturer ": "Bertazzon",
       "Type ": "Tracked Dark Ride",
-      "Opening ": 2009
+      "Opening ": "2009"
     },
     {
-      "Park Id": 19,
+      "Park Id": "19",
       "Name": "Lego City Deep Sea Adventure",
       "Manufacturer ": "Mack Rides",
       "Type ": "Submarine Ride",
-      "Opening ": 2011
+      "Opening ": "2011"
     },
     {
-      "Park Id": 19,
+      "Park Id": "19",
       "Name": "Legoland Express",
       "Manufacturer ": "Severn Lamb",
       "Type ": "Miniature Railway",
-      "Opening ": 1996
+      "Opening ": "1996"
     },
     {
-      "Park Id": 19,
+      "Park Id": "19",
       "Name": "Merlin's Challenge",
       "Manufacturer ": "Mack Rides",
       "Type ": "Sea Storm",
-      "Opening ": 2005
+      "Opening ": "2005"
     },
     {
-      "Park Id": 19,
+      "Park Id": "19",
       "Name": "Mia's Riding Adventure",
       "Manufacturer ": "Zamperla",
       "Type ": "Disk'O",
-      "Opening ": 2015
+      "Opening ": "2015"
     },
     {
-      "Park Id": 19,
+      "Park Id": "19",
       "Name": "Ninjago the Ride",
       "Manufacturer ": "Triotech",
       "Type ": "Tracked Dark Ride",
-      "Opening ": 2017
+      "Opening ": "2017"
     },
     {
-      "Park Id": 19,
+      "Park Id": "19",
       "Name": "Pirate Falls Treasure Quest",
       "Manufacturer ": "Zamperla",
       "Type ": "Log Flume",
-      "Opening ": 1996
+      "Opening ": "1996"
     },
     {
-      "Park Id": 19,
+      "Park Id": "19",
       "Name": "Scarab Bouncers",
       "Manufacturer ": "S&S Worldwide",
       "Type ": "Junior Drop Towerx2",
-      "Opening ": 2009
+      "Opening ": "2009"
     },
     {
-      "Park Id": 19,
+      "Park Id": "19",
       "Name": "Sky Rider",
       "Manufacturer ": "MSI Transportation",
       "Type ": "Monorail",
-      "Opening ": 1996
+      "Opening ": "1996"
     },
     {
-      "Park Id": 19,
+      "Park Id": "19",
       "Name": "Spinning Spider",
       "Manufacturer ": "Intamin",
       "Type ": "Teacups",
-      "Opening ": 1996
+      "Opening ": "1996"
     },
     {
-      "Park Id": 19,
+      "Park Id": "19",
       "Name": "Thunder Blazer",
       "Manufacturer ": "Bertazzon",
       "Type ": "Junior Chair-O-Plane",
-      "Opening ": 1996
+      "Opening ": "1996"
     }
   ]
 }

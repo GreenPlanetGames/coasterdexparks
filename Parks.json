@@ -1089,6 +1089,96 @@
       "Official Website": "https://www.lagoonpark.com/",
       "Lat": 40.9859652,
       "Long": -111.8927528
+    },
+    {
+      "Park Index": 110,
+      "Park Name": "Energylandia",
+      "Region": "Zator, Poland",
+      "Coasterpedia": "https://coasterpedia.net/wiki/Energylandia",
+      "Wikipedia": "https://en.wikipedia.org/wiki/Energylandia",
+      "Official Website": "https://energylandia.pl/",
+      "Lat": 49.9995,
+      "Long": 19.408306
+    },
+    {
+      "Park Index": 111,
+      "Park Name": "Legendia",
+      "Region": "Chorzów, Poland",
+      "Coasterpedia": "https://coasterpedia.net/wiki/Legendia",
+      "Wikipedia": "https://en.wikipedia.org/wiki/Legendia",
+      "Official Website": "https://www.legendia.pl/",
+      "Lat": 50.275639,
+      "Long": 50.275639
+    },
+    {
+      "Park Index": 112,
+      "Park Name": "Ferrari Land",
+      "Region": "Catalonia, Spain",
+      "Coasterpedia": "https://coasterpedia.net/wiki/Ferrari_Land",
+      "Wikipedia": "https://en.wikipedia.org/wiki/PortAventura_World",
+      "Official Website": "https://www.portaventuraworld.com/en/ferrari-land",
+      "Lat": 41.08475,
+      "Long": 1.151972
+    },
+    {
+      "Park Index": 113,
+      "Park Name": "Gröna Lund",
+      "Region": "Stockholm, Sweden",
+      "Coasterpedia": "https://coasterpedia.net/wiki/Gr%C3%B6na_Lund",
+      "Wikipedia": "https://en.wikipedia.org/wiki/Gr%C3%B6na_Lund",
+      "Official Website": "https://www.gronalund.com/",
+      "Lat": 59.323444,
+      "Long": 59.323444
+    },
+    {
+      "Park Index": 114,
+      "Park Name": "Fårup Sommerland",
+      "Region": "Blokhus, Denmark",
+      "Coasterpedia": "https://coasterpedia.net/wiki/F%C3%A5rup_Sommerland",
+      "Wikipedia": "https://en.wikipedia.org/wiki/F%C3%A5rup_Summer_Park",
+      "Official Website": "https://www.faarupsommerland.dk/",
+      "Lat": 57.270389,
+      "Long": 9.644778
+    },
+    {
+      "Park Index": 115,
+      "Park Name": "Liseberg",
+      "Region": "Gothenburg, Sweden",
+      "Coasterpedia": "https://coasterpedia.net/wiki/Liseberg",
+      "Wikipedia": "https://en.wikipedia.org/wiki/Liseberg",
+      "Official Website": "https://www.liseberg.se/",
+      "Lat": 57.695111,
+      "Long": 11.991944
+    },
+    {
+      "Park Index": 116,
+      "Park Name": "TusenFryd",
+      "Region": "Vinterbro, Norway",
+      "Coasterpedia": "https://coasterpedia.net/wiki/TusenFryd",
+      "Wikipedia": "https://en.wikipedia.org/wiki/Tusenfryd",
+      "Official Website": "https://www.tusenfryd.no/",
+      "Lat": 59.74775,
+      "Long": 10.776556
+    },
+    {
+      "Park Index": 117,
+      "Park Name": "Tivoli Gardens",
+      "Region": "Copenhagen, Denmark",
+      "Coasterpedia": "https://coasterpedia.net/wiki/Tivoli_Gardens",
+      "Wikipedia": "https://en.wikipedia.org/wiki/Tivoli_Gardens",
+      "Official Website": "https://www.tivoli.dk/",
+      "Lat": 55.673556,
+      "Long": 12.568389
+    },
+    {
+      "Park Index": 118,
+      "Park Name": "Kolmården",
+      "Region": "Norrköping, Sweden",
+      "Coasterpedia": "https://coasterpedia.net/wiki/Kolm%C3%A5rden",
+      "Wikipedia": "https://en.wikipedia.org/wiki/Kolm%C3%A5rden_Wildlife_Park",
+      "Official Website": "https://www.kolmarden.com/",
+      "Lat": 58.661361,
+      "Long": 16.448139
     }
   ]
 }

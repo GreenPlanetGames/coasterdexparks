@@ -1179,6 +1179,16 @@
       "Official Website": "https://www.kolmarden.com/",
       "Lat": 58.661361,
       "Long": 16.448139
+    },
+    {
+      "Park Index": 119,
+      "Park Name": "Holiday Park",
+      "Region": "Haßloch, Germany",
+      "Coasterpedia": "https://coasterpedia.net/wiki/Holiday_Park",
+      "Wikipedia": "https://en.wikipedia.org/wiki/Holiday_Park,_Germany",
+      "Official Website": "https://www.holidaypark.de/",
+      "Lat": 49.318667,
+      "Long": 8.297722
     }
   ]
 }

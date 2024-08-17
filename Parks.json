@@ -14,7 +14,7 @@
       "Park Index": 2,
       "Park Name": "Universal Islands of Adventure",
       "Region": "FL, USA",
-      "Coasterpedia": "https://coasterpedia.net/wiki/Universal%27s_Islands_of_Adventure",
+      "Coasterpedia": "https://coasterpedia.net/wiki/Universal_Islands_of_Adventure",
       "Wikipedia": "https://en.wikipedia.org/wiki/Universal_Islands_of_Adventure",
       "Official Website": "https://www.universalorlando.com/web/en/us/theme-parks/islands-of-adventure",
       "Lat": 28.4716917,
@@ -1189,6 +1189,16 @@
       "Official Website": "https://www.holidaypark.de/",
       "Lat": 49.318667,
       "Long": 8.297722
+    },
+    {
+      "Park Index": 120,
+      "Park Name": "Glenwood Caverns Adventure Park",
+      "Region": "Glenwood Springs, CO, USA",
+      "Coasterpedia": "https://coasterpedia.net/wiki/Glenwood_Caverns_Adventure_Park",
+      "Wikipedia": "https://en.wikipedia.org/wiki/Glenwood_Caverns_Adventure_Park",
+      "Official Website": "https://www.glenwoodcaverns.com/",
+      "Lat": 39.560611,
+      "Long": -107.32
     }
   ]
 }

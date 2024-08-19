@@ -2354,7 +2354,7 @@
     },
     {
       "Coaster ID": 112,
-      "Park ID": 20,
+      "Park ID": "20",
       "name": "Dragon",
       "material": "Steel",
       "opened": "July 9 2021",
@@ -2375,7 +2375,7 @@
     },
     {
       "Coaster ID": 113,
-      "Park ID": 20,
+      "Park ID": "20",
       "name": "Dragon's Apprentice",
       "material": "Steel",
       "opened": "July 9 2021",
@@ -2396,7 +2396,7 @@
     },
     {
       "Coaster ID": 114,
-      "Park ID": 21,
+      "Park ID": "21",
       "name": "Dragen",
       "material": "Steel",
       "opened": "1997",
@@ -2417,7 +2417,7 @@
     },
     {
       "Coaster ID": 115,
-      "Park ID": 21,
+      "Park ID": "21",
       "name": "Flying Eagle",
       "material": "Steel",
       "opened": "March 24 2018",
@@ -2438,7 +2438,7 @@
     },
     {
       "Coaster ID": 116,
-      "Park ID": 21,
+      "Park ID": "21",
       "name": "Polar X-plorer",
       "material": "Steel",
       "opened": "April 29 2012",
@@ -2459,7 +2459,7 @@
     },
     {
       "Coaster ID": 117,
-      "Park ID": 21,
+      "Park ID": "21",
       "name": "X-treme Racers",
       "material": "Steel",
       "opened": "March 23 2002",
@@ -2480,7 +2480,7 @@
     },
     {
       "Coaster ID": 118,
-      "Park ID": 22,
+      "Park ID": "22",
       "name": "Das große Lego rennen",
       "material": "Steel",
       "opened": "May 17 2002",
@@ -2501,7 +2501,7 @@
     },
     {
       "Coaster ID": 119,
-      "Park ID": 22,
+      "Park ID": "22",
       "name": "Drachenjagd",
       "material": "Steel",
       "opened": "June 2003",
@@ -2522,7 +2522,7 @@
     },
     {
       "Coaster ID": 120,
-      "Park ID": 22,
+      "Park ID": "22",
       "name": "Feuerdrache",
       "material": "Steel",
       "opened": "May 17 2002",
@@ -2543,7 +2543,7 @@
     },
     {
       "Coaster ID": 121,
-      "Park ID": 22,
+      "Park ID": "22",
       "name": "Maximus - Der Flug des Wächters",
       "material": "Steel",
       "opened": "March 25 2023",
@@ -2564,7 +2564,7 @@
     },
     {
       "Coaster ID": 122,
-      "Park ID": 23,
+      "Park ID": "23",
       "name": "Dragon",
       "material": "Steel",
       "opened": "April 1 2017",
@@ -2585,7 +2585,7 @@
     },
     {
       "Coaster ID": 123,
-      "Park ID": 23,
+      "Park ID": "23",
       "name": "Dragon's Apprentice",
       "material": "Steel",
       "opened": "April 1 2017",
@@ -2606,7 +2606,7 @@
     },
     {
       "Coaster ID": 124,
-      "Park ID": 24,
+      "Park ID": "24",
       "name": "Dragon",
       "material": "Steel",
       "opened": "May 5 2022",
@@ -2627,7 +2627,7 @@
     },
     {
       "Coaster ID": 125,
-      "Park ID": 25,
+      "Park ID": "25",
       "name": "Dragon",
       "material": "Steel",
       "opened": "September 15 2012",
@@ -2648,7 +2648,7 @@
     },
     {
       "Coaster ID": 126,
-      "Park ID": 25,
+      "Park ID": "25",
       "name": "Dragon's Apprentice",
       "material": "Steel",
       "opened": "September 15 2012",
@@ -2669,7 +2669,7 @@
     },
     {
       "Coaster ID": 127,
-      "Park ID": 25,
+      "Park ID": "25",
       "name": "Great Lego Race",
       "material": "Steel",
       "opened": "September 15 2012",
@@ -2690,7 +2690,7 @@
     },
     {
       "Coaster ID": 26,
-      "Park ID": 26,
+      "Park ID": "26",
       "name": "Dragon",
       "material": "Steel",
       "opened": "November 2016",
@@ -2711,7 +2711,7 @@
     },
     {
       "Coaster ID": 129,
-      "Park ID": 26,
+      "Park ID": "26",
       "name": "Dragon's Apprentice",
       "material": "Steel",
       "opened": "October 31 2016",
@@ -2732,7 +2732,7 @@
     },
     {
       "Coaster ID": 130,
-      "Park ID": 27,
+      "Park ID": "27",
       "name": "Coastersaurus",
       "material": "Steel",
       "opened": "April 1 2004",
@@ -2753,7 +2753,7 @@
     },
     {
       "Coaster ID": 131,
-      "Park ID": 27,
+      "Park ID": "27",
       "name": "Dragon",
       "material": "Steel",
       "opened": "March 20 1999",
@@ -2774,7 +2774,7 @@
     },
     {
       "Coaster ID": 132,
-      "Park ID": 27,
+      "Park ID": "27",
       "name": "Technic Coaster",
       "material": "Steel",
       "opened": "April 7 2001",
@@ -2795,7 +2795,7 @@
     },
     {
       "Coaster ID": 133,
-      "Park ID": 28,
+      "Park ID": "28",
       "name": "Coastersaurus",
       "material": "Wooden",
       "opened": "November 26 2004",
@@ -2816,7 +2816,7 @@
     },
     {
       "Coaster ID": 134,
-      "Park ID": 28,
+      "Park ID": "28",
       "name": "Dragon",
       "material": "Steel",
       "opened": "2004 (2011)",
@@ -2837,7 +2837,7 @@
     },
     {
       "Coaster ID": 135,
-      "Park ID": 28,
+      "Park ID": "28",
       "name": "Great Lego Race",
       "material": "Steel",
       "opened": "October 15 2011",
@@ -2858,7 +2858,7 @@
     },
     {
       "Coaster ID": 136,
-      "Park ID": 29,
+      "Park ID": "29",
       "name": "Cú Chulainn",
       "material": "Wooden",
       "opened": "June 6 2015",
@@ -2879,7 +2879,7 @@
     },
     {
       "Coaster ID": 137,
-      "Park ID": 29,
+      "Park ID": "29",
       "name": "Dino Dash",
       "material": "Steel",
       "opened": "April 9 2022",
@@ -2900,7 +2900,7 @@
     },
     {
       "Coaster ID": 138,
-      "Park ID": 29,
+      "Park ID": "29",
       "name": "Fianna Force",
       "material": "Steel",
       "opened": "May 22 2024",
@@ -2921,7 +2921,7 @@
     },
     {
       "Coaster ID": 139,
-      "Park ID": 29,
+      "Park ID": "29",
       "name": "Flight School",
       "material": "Steel",
       "opened": "May 18 2019",
@@ -2942,7 +2942,7 @@
     },
     {
       "Coaster ID": 140,
-      "Park ID": 29,
+      "Park ID": "29",
       "name": "Ladybird Loop",
       "material": "Steel",
       "opened": "August 1 2018",
@@ -2963,7 +2963,7 @@
     },
     {
       "Coaster ID": 141,
-      "Park ID": 29,
+      "Park ID": "29",
       "name": "Quest",
       "material": "Steel",
       "opened": "May 22 2024",
@@ -2984,7 +2984,7 @@
     },
     {
       "Coaster ID": 142,
-      "Park ID": 30,
+      "Park ID": "30",
       "name": "Cat-O-Pillar",
       "material": "Steel",
       "opened": "2000",
@@ -3005,7 +3005,7 @@
     },
     {
       "Coaster ID": 143,
-      "Park ID": 30,
+      "Park ID": "30",
       "name": "Cobra",
       "material": "Steel",
       "opened": "March 18 2006",
@@ -3026,7 +3026,7 @@
     },
     {
       "Coaster ID": 144,
-      "Park ID": 30,
+      "Park ID": "30",
       "name": "Dino Chase",
       "material": "Steel",
       "opened": "2003",
@@ -3047,7 +3047,7 @@
     },
     {
       "Coaster ID": 145,
-      "Park ID": 30,
+      "Park ID": "30",
       "name": "Farmyard Flyer",
       "material": "Steel",
       "opened": "April 1 2022",
@@ -3068,7 +3068,7 @@
     },
     {
       "Coaster ID": 146,
-      "Park ID": 30,
+      "Park ID": "30",
       "name": "Flight of the Pterosaur",
       "material": "Steel",
       "opened": "May 17 2016",
@@ -3089,7 +3089,7 @@
     },
     {
       "Coaster ID": 147,
-      "Park ID": 30,
+      "Park ID": "30",
       "name": "Storm Chaser",
       "material": "Steel",
       "opened": "April 12 2021",
@@ -3110,7 +3110,7 @@
     },
     {
       "Coaster ID": 148,
-      "Park ID": 30,
+      "Park ID": "30",
       "name": "Velociraptor",
       "material": "Steel",
       "opened": "May 17 2016",

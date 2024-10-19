@@ -8,6 +8,8 @@ This Data is also licensed Under CC BY-SA 4.0.
 
 https://creativecommons.org/licenses/by-sa/4.0/
 
+Images Under their own respective licences can be found in image licences.txt.
+
 ----------------------------------------------------------------------------------------------
 
 About: 

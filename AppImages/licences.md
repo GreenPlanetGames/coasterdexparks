@@ -4,9 +4,15 @@
 IMAGE LICENCES:
 
 85 - CC BY 4.0
+
 90 - CC BY 4.0
+
 96 - CC BY 4.0
+
 98 - CC BY 4.0
+
 99 - CC BY 4.0
+
 100 - CC BY 4.0
+
 147 - CC BY 4.0

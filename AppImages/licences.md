@@ -3,7 +3,7 @@
 
 IMAGE LICENCES:
 
-85 - CC BY 4.0
+**85 - CC BY 4.0
 
 90 - CC BY 4.0
 
@@ -16,3 +16,4 @@ IMAGE LICENCES:
 100 - CC BY 4.0
 
 147 - CC BY 4.0
+**

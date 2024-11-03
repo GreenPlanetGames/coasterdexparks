@@ -22,7 +22,7 @@ Feel free to use this in your projects, but please attribute it to Coasterpedia,
 
 Other information: 
 
-This database is still under development and only contains limited data. **It is incomplete.** Updates will be pushed over time however the current dataset only contains 23 rollercoasters, 81 other Attractions, and 118 parks. 
+This database is still under development and only contains limited data. **It is incomplete.** Updates will be pushed over time however the current dataset only contains 287 rollercoasters, 81 other Attractions, and 118 parks. 
 
 More data will be added over time. 
 

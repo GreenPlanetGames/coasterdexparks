@@ -7,8 +7,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Universal_Studios_Hollywood",
       "Wikipedia": "https://en.wikipedia.org/wiki/Universal_Studios_Hollywood",
       "Official Website": "https://www.universalstudioshollywood.com/",
-      "Lat": 34.1369704,
-      "Long": -118.3525548,
+      "Lat": "34.1369704",
+      "Long": "-118.3525548",
       "Id Ridetimes": "66"
     },
     {
@@ -18,8 +18,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Universal_Islands_of_Adventure",
       "Wikipedia": "https://en.wikipedia.org/wiki/Universal_Islands_of_Adventure",
       "Official Website": "https://www.universalorlando.com/web/en/us/theme-parks/islands-of-adventure",
-      "Lat": 28.4716917,
-      "Long": -81.4702102,
+      "Lat": "28.4716917",
+      "Long": "-81.4702102",
       "Id Ridetimes": "64"
     },
     {
@@ -29,8 +29,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Universal_Studios_Florida",
       "Wikipedia": "https://en.wikipedia.org/wiki/Universal_Studios_Florida",
       "Official Website": "https://www.universalorlando.com/web/en/us/theme-parks/universal-studios-florida",
-      "Lat": 28.4772482,
-      "Long": -81.4697068,
+      "Lat": "28.4772482",
+      "Long": "-81.4697068",
       "Id Ridetimes": "65"
     },
     {
@@ -40,8 +40,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Universal_Studios_Japan",
       "Wikipedia": "https://en.wikipedia.org/wiki/Universal_Studios_Japan",
       "Official Website": "https://www.usj.co.jp/web/en/us",
-      "Lat": 34.6656566,
-      "Long": 135.4323463,
+      "Lat": "34.6656566",
+      "Long": "135.4323463",
       "Id Ridetimes": "284"
     },
     {
@@ -51,8 +51,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Universal_Studios_Singapore",
       "Wikipedia": "https://en.wikipedia.org/wiki/Universal_Studios_Singapore",
       "Official Website": "https://www.rwsentosa.com/en/attractions/universal-studios-singapore",
-      "Lat": 1.2542009,
-      "Long": 103.822667,
+      "Lat": "1.2542009",
+      "Long": "103.822667",
       "Id Ridetimes": "0"
     },
     {
@@ -62,8 +62,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Universal_Studios_Beijing",
       "Wikipedia": "https://en.wikipedia.org/wiki/Universal_Studios_Beijing",
       "Official Website": "https://www.universalbeijingresort.com/en",
-      "Lat": 39.8452938,
-      "Long": 116.6725876,
+      "Lat": "39.8452938",
+      "Long": "116.6725876",
       "Id Ridetimes": "328"
     },
     {
@@ -73,8 +73,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Sea_World",
       "Wikipedia": "https://en.wikipedia.org/wiki/Sea_World_(Australia)",
       "Official Website": "https://seaworld.com.au/",
-      "Lat": -27.9570118,
-      "Long": 153.4253149,
+      "Lat": "-27.9570118",
+      "Long": "153.4253149",
       "Id Ridetimes": "0"
     },
     {
@@ -84,8 +84,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/SeaWorld_Abu_Dhabi",
       "Wikipedia": "https://en.wikipedia.org/wiki/SeaWorld_Abu_Dhabi",
       "Official Website": "https://www.seaworldabudhabi.com/",
-      "Lat": 24.4876771,
-      "Long": 54.6184448,
+      "Lat": "24.4876771",
+      "Long": "54.6184448",
       "Id Ridetimes": "0"
     },
     {
@@ -95,8 +95,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/SeaWorld_Orlando",
       "Wikipedia": "https://en.wikipedia.org/wiki/SeaWorld_Orlando",
       "Official Website": "https://seaworld.com/orlando/",
-      "Lat": 28.4103255,
-      "Long": -81.4619743,
+      "Lat": "28.4103255",
+      "Long": "-81.4619743",
       "Id Ridetimes": "21"
     },
     {
@@ -106,8 +106,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/SeaWorld_San_Antonio",
       "Wikipedia": "https://en.wikipedia.org/wiki/SeaWorld_San_Antonio",
       "Official Website": "https://seaworld.com/san-antonio/",
-      "Lat": 29.4566321,
-      "Long": -98.6986558,
+      "Lat": "29.4566321",
+      "Long": "-98.6986558",
       "Id Ridetimes": "22"
     },
     {
@@ -117,8 +117,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/SeaWorld_San_Diego",
       "Wikipedia": "https://en.wikipedia.org/wiki/SeaWorld_San_Diego",
       "Official Website": "https://seaworld.com/san-diego/",
-      "Lat": 32.7660051,
-      "Long": -117.2264498,
+      "Lat": "32.7660051",
+      "Long": "-117.2264498",
       "Id Ridetimes": "20"
     },
     {
@@ -128,8 +128,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Busch_Gardens_Tampa_Bay",
       "Wikipedia": "https://en.wikipedia.org/wiki/Busch_Gardens_Tampa_Bay",
       "Official Website": "https://buschgardens.com/tampa/",
-      "Lat": 28.0370823,
-      "Long": -82.4212613,
+      "Lat": "28.0370823",
+      "Long": "-82.4212613",
       "Id Ridetimes": "24"
     },
     {
@@ -139,8 +139,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Busch_Gardens_Williamsburg",
       "Wikipedia": "https://en.wikipedia.org/wiki/Busch_Gardens_Williamsburg",
       "Official Website": "https://buschgardens.com/williamsburg/",
-      "Lat": 37.2328361,
-      "Long": -76.6440645,
+      "Lat": "37.2328361",
+      "Long": "-76.6440645",
       "Id Ridetimes": "23"
     },
     {
@@ -150,8 +150,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Frontier_City",
       "Wikipedia": "https://en.wikipedia.org/wiki/Frontier_City",
       "Official Website": "https://www.sixflags.com/frontiercity",
-      "Lat": 35.5835152,
-      "Long": -97.4415564,
+      "Lat": "35.5835152",
+      "Long": "-97.4415564",
       "Id Ridetimes": "282"
     },
     {
@@ -161,8 +161,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/La_Ronde",
       "Wikipedia": "https://en.wikipedia.org/wiki/La_Ronde_(amusement_park)",
       "Official Website": "https://www.sixflags.com/larondeen",
-      "Lat": 45.5219652,
-      "Long": -73.5345766,
+      "Lat": "45.5219652",
+      "Long": "-73.5345766",
       "Id Ridetimes": "48"
     },
     {
@@ -172,8 +172,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Alton_Towers",
       "Wikipedia": "https://en.wikipedia.org/wiki/Alton_Towers",
       "Official Website": "https://www.altontowers.com/",
-      "Lat": 52.9882648,
-      "Long": -1.888342,
+      "Lat": "52.9882648",
+      "Long": "-1.888342",
       "Id Ridetimes": "1"
     },
     {
@@ -183,8 +183,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Thorpe_Park",
       "Wikipedia": "https://en.wikipedia.org/wiki/Thorpe_Park",
       "Official Website": "https://www.thorpepark.com/",
-      "Lat": 51.4033187,
-      "Long": -0.5150181,
+      "Lat": "51.4033187",
+      "Long": "-0.5150181",
       "Id Ridetimes": "2"
     },
     {
@@ -194,8 +194,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Chessington_World_of_Adventures",
       "Wikipedia": "https://en.wikipedia.org/wiki/Chessington_World_of_Adventures",
       "Official Website": "https://www.chessington.com/",
-      "Lat": 51.3495146,
-      "Long": -0.3172728,
+      "Lat": "51.3495146",
+      "Long": "-0.3172728",
       "Id Ridetimes": "3"
     },
     {
@@ -205,8 +205,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Legoland_Windsor",
       "Wikipedia": "https://en.wikipedia.org/wiki/Legoland_Windsor_Resort",
       "Official Website": "https://www.legoland.co.uk/",
-      "Lat": 51.4634001,
-      "Long": -0.6504356,
+      "Lat": "51.4634001",
+      "Long": "-0.6504356",
       "Id Ridetimes": "27"
     },
     {
@@ -216,8 +216,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Legoland_New_York",
       "Wikipedia": "https://en.wikipedia.org/wiki/Legoland_New_York",
       "Official Website": "https://www.legoland.com/new-york/",
-      "Lat": 41.3767859,
-      "Long": -74.3119236,
+      "Lat": "41.3767859",
+      "Long": "-74.3119236",
       "Id Ridetimes": "299"
     },
     {
@@ -227,8 +227,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Legoland_Billund",
       "Wikipedia": "https://en.wikipedia.org/wiki/Legoland_Billund",
       "Official Website": "https://www.legoland.dk/",
-      "Lat": 55.7359311,
-      "Long": 9.1267594,
+      "Lat": "55.7359311",
+      "Long": "9.1267594",
       "Id Ridetimes": "52"
     },
     {
@@ -238,8 +238,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Legoland_Deutschland",
       "Wikipedia": "https://en.wikipedia.org/wiki/Legoland_Deutschland",
       "Official Website": "https://www.legoland.de/",
-      "Lat": 48.4241936,
-      "Long": 10.3054256,
+      "Lat": "48.4241936",
+      "Long": "10.3054256",
       "Id Ridetimes": "278"
     },
     {
@@ -249,8 +249,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Legoland_Japan",
       "Wikipedia": "https://en.wikipedia.org/wiki/Legoland_Japan",
       "Official Website": "https://www.legoland.jp/",
-      "Lat": 35.0505937,
-      "Long": 136.8436933,
+      "Lat": "35.0505937",
+      "Long": "136.8436933",
       "Id Ridetimes": "285"
     },
     {
@@ -260,8 +260,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Legoland_Korea",
       "Wikipedia": "https://en.wikipedia.org/wiki/Legoland_Korea",
       "Official Website": "https://www.legoland.kr/",
-      "Lat": 37.8856858,
-      "Long": 127.6992627,
+      "Lat": "37.8856858",
+      "Long": "127.6992627",
       "Id Ridetimes": "315"
     },
     {
@@ -271,8 +271,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Legoland_Malaysia",
       "Wikipedia": "https://en.wikipedia.org/wiki/Legoland_Malaysia",
       "Official Website": "https://www.legoland.com.my/",
-      "Lat": 1.4276981,
-      "Long": 103.6298414,
+      "Lat": "1.4276981",
+      "Long": "103.6298414",
       "Id Ridetimes": "0"
     },
     {
@@ -282,8 +282,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Legoland_Dubai",
       "Wikipedia": "https://en.wikipedia.org/wiki/Legoland_Dubai",
       "Official Website": "https://www.legoland.com/dubai/",
-      "Lat": 24.9188167,
-      "Long": 55.0121902,
+      "Lat": "24.9188167",
+      "Long": "55.0121902",
       "Id Ridetimes": "0"
     },
     {
@@ -293,8 +293,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Legoland_California",
       "Wikipedia": "https://en.wikipedia.org/wiki/Legoland_California",
       "Official Website": "https://www.legoland.com/california/",
-      "Lat": 33.1278683,
-      "Long": -117.3116643,
+      "Lat": "33.1278683",
+      "Long": "-117.3116643",
       "Id Ridetimes": "279"
     },
     {
@@ -304,8 +304,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Legoland_Florida",
       "Wikipedia": "https://en.wikipedia.org/wiki/Legoland_Florida",
       "Official Website": "https://www.legoland.com/florida/",
-      "Lat": 27.9920627,
-      "Long": -81.6919685,
+      "Lat": "27.9920627",
+      "Long": "-81.6919685",
       "Id Ridetimes": "280"
     },
     {
@@ -315,8 +315,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Emerald_Park",
       "Wikipedia": "https://en.wikipedia.org/wiki/Emerald_Park",
       "Official Website": "https://www.emeraldpark.ie/",
-      "Lat": 53.5457935,
-      "Long": -6.4611997,
+      "Lat": "53.5457935",
+      "Long": "-6.4611997",
       "Id Ridetimes": "0"
     },
     {
@@ -326,8 +326,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Paultons_Park",
       "Wikipedia": "https://en.wikipedia.org/wiki/Paultons_Park",
       "Official Website": "https://paultonspark.co.uk/",
-      "Lat": 50.9482604,
-      "Long": -1.5534027,
+      "Lat": "50.9482604",
+      "Long": "-1.5534027",
       "Id Ridetimes": "49"
     },
     {
@@ -337,8 +337,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Pleasure_Beach_Resort",
       "Wikipedia": "https://en.wikipedia.org/wiki/Blackpool_Pleasure_Beach",
       "Official Website": "https://www.blackpoolpleasurebeach.com/",
-      "Lat": 53.7906939,
-      "Long": -3.0554665,
+      "Lat": "53.7906939",
+      "Long": "-3.0554665",
       "Id Ridetimes": "273"
     },
     {
@@ -348,8 +348,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Heide_Park",
       "Wikipedia": "https://en.wikipedia.org/wiki/Heide_Park",
       "Official Website": "https://www.heide-park.de/",
-      "Lat": 53.0249254,
-      "Long": 9.8792392,
+      "Lat": "53.0249254",
+      "Long": "9.8792392",
       "Id Ridetimes": "25"
     },
     {
@@ -359,8 +359,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Gardaland",
       "Wikipedia": "https://en.wikipedia.org/wiki/Gardaland",
       "Official Website": "https://www.gardaland.it/",
-      "Lat": 45.4560807,
-      "Long": 10.713335,
+      "Lat": "45.4560807",
+      "Long": "10.713335",
       "Id Ridetimes": "12"
     },
     {
@@ -370,8 +370,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/PortAventura_Park",
       "Wikipedia": "https://en.wikipedia.org/wiki/PortAventura",
       "Official Website": "https://www.portaventuraworld.com/",
-      "Lat": 41.0869569,
-      "Long": 1.1585835,
+      "Lat": "41.0869569",
+      "Long": "1.1585835",
       "Id Ridetimes": "19"
     },
     {
@@ -381,8 +381,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Parque_Warner_Madrid",
       "Wikipedia": "https://en.wikipedia.org/wiki/Parque_Warner_Madrid",
       "Official Website": "https://www.parquewarner.com/",
-      "Lat": 40.2294449,
-      "Long": -3.5928263,
+      "Lat": "40.2294449",
+      "Long": "-3.5928263",
       "Id Ridetimes": "298"
     },
     {
@@ -392,8 +392,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Phantasialand",
       "Wikipedia": "https://en.wikipedia.org/wiki/Phantasialand",
       "Official Website": "https://www.phantasialand.de/",
-      "Lat": 50.7987576,
-      "Long": 6.8821139,
+      "Lat": "50.7987576",
+      "Long": "6.8821139",
       "Id Ridetimes": "56"
     },
     {
@@ -403,8 +403,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Europa-Park",
       "Wikipedia": "https://en.wikipedia.org/wiki/Europa-Park",
       "Official Website": "https://www.europapark.de/",
-      "Lat": 48.2649865,
-      "Long": 7.720728,
+      "Lat": "48.2649865",
+      "Long": "7.720728",
       "Id Ridetimes": "51"
     },
     {
@@ -414,8 +414,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Dollywood",
       "Wikipedia": "https://en.wikipedia.org/wiki/Dollywood",
       "Official Website": "https://www.dollywood.com/",
-      "Lat": 35.794611,
-      "Long": -83.531361,
+      "Lat": "35.794611",
+      "Long": "-83.531361",
       "Id Ridetimes": "55"
     },
     {
@@ -425,8 +425,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Oakwood_Theme_Park",
       "Wikipedia": "https://en.wikipedia.org/wiki/Oakwood_Theme_Park",
       "Official Website": "https://www.oakwoodthemepark.co.uk/",
-      "Lat": 51.7783381,
-      "Long": -4.8038976,
+      "Lat": "51.7783381",
+      "Long": "-4.8038976",
       "Id Ridetimes": "0"
     },
     {
@@ -436,8 +436,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Movie_Park_Germany",
       "Wikipedia": "https://en.wikipedia.org/wiki/Movie_Park_Germany",
       "Official Website": "https://www.movieparkgermany.de/",
-      "Lat": 51.6223155,
-      "Long": 6.9749162,
+      "Lat": "51.6223155",
+      "Long": "6.9749162",
       "Id Ridetimes": "310"
     },
     {
@@ -447,8 +447,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Plopsaland_De_Panne",
       "Wikipedia": "https://en.wikipedia.org/wiki/Plopsaland_de_Panne",
       "Official Website": "https://www.plopsalanddepanne.be/",
-      "Lat": 51.0808602,
-      "Long": 2.5984224,
+      "Lat": "51.0808602",
+      "Long": "2.5984224",
       "Id Ridetimes": "54"
     },
     {
@@ -458,8 +458,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Lost_Island_Theme_Park",
       "Wikipedia": "https://en.wikipedia.org/wiki/Lost_Island_Theme_Park",
       "Official Website": "https://www.thelostisland.com/",
-      "Lat": 42.4392543,
-      "Long": -92.3078631,
+      "Lat": "42.4392543",
+      "Long": "-92.3078631",
       "Id Ridetimes": "0"
     },
     {
@@ -469,8 +469,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Toverland",
       "Wikipedia": "https://en.wikipedia.org/wiki/Toverland",
       "Official Website": "https://www.toverland.com/",
-      "Lat": 51.3982068,
-      "Long": 5.9838255,
+      "Lat": "51.3982068",
+      "Long": "5.9838255",
       "Id Ridetimes": "305"
     },
     {
@@ -480,8 +480,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Efteling",
       "Wikipedia": "https://en.wikipedia.org/wiki/Efteling",
       "Official Website": "https://www.efteling.com/",
-      "Lat": 51.6499583,
-      "Long": 5.0477212,
+      "Lat": "51.6499583",
+      "Long": "5.0477212",
       "Id Ridetimes": "160"
     },
     {
@@ -491,8 +491,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Parc_Ast%C3%A9rix",
       "Wikipedia": "https://en.wikipedia.org/wiki/Parc_Ast%C3%A9rix",
       "Official Website": "https://www.parcasterix.fr/",
-      "Lat": 49.134363,
-      "Long": 2.568249,
+      "Lat": "49.134363",
+      "Long": "2.568249",
       "Id Ridetimes": "9"
     },
     {
@@ -502,8 +502,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Erlebnispark_Tripsdrill",
       "Wikipedia": "https://en.wikipedia.org/wiki/Erlebnispark_Tripsdrill",
       "Official Website": "https://tripsdrill.de/",
-      "Lat": 49.0364106,
-      "Long": 9.0527974,
+      "Lat": "49.0364106",
+      "Long": "9.0527974",
       "Id Ridetimes": "0"
     },
     {
@@ -513,8 +513,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Bellewaerde",
       "Wikipedia": "https://en.wikipedia.org/wiki/Bellewaerde",
       "Official Website": "https://www.bellewaerde.be/",
-      "Lat": 50.8489934,
-      "Long": 2.9474334,
+      "Lat": "50.8489934",
+      "Long": "2.9474334",
       "Id Ridetimes": "276"
     },
     {
@@ -524,8 +524,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Walibi_Holland",
       "Wikipedia": "https://en.wikipedia.org/wiki/Walibi_Holland",
       "Official Website": "https://www.walibi.nl/",
-      "Lat": 52.4410199,
-      "Long": 5.7640593,
+      "Lat": "52.4410199",
+      "Long": "5.7640593",
       "Id Ridetimes": "53"
     },
     {
@@ -535,8 +535,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Walibi_Belgium",
       "Wikipedia": "https://en.wikipedia.org/wiki/Walibi_Belgium",
       "Official Website": "https://www.walibi.be/",
-      "Lat": 50.6991109,
-      "Long": 4.5902469,
+      "Lat": "50.6991109",
+      "Long": "4.5902469",
       "Id Ridetimes": "14"
     },
     {
@@ -546,8 +546,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Walibi_Rhône-Alpes",
       "Wikipedia": "https://en.wikipedia.org/wiki/Walibi_Rhône-Alpes",
       "Official Website": "https://www.walibi.fr/",
-      "Lat": 45.619467,
-      "Long": 5.571696,
+      "Lat": "45.619467",
+      "Long": "5.571696",
       "Id Ridetimes": "301"
     },
     {
@@ -557,8 +557,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Dreamworld",
       "Wikipedia": "https://en.wikipedia.org/wiki/Dreamworld_(Australia)",
       "Official Website": "https://www.dreamworld.com.au/",
-      "Lat": -27.8611449,
-      "Long": 153.3162701,
+      "Lat": "-27.8611449",
+      "Long": "153.3162701",
       "Id Ridetimes": "0"
     },
     {
@@ -568,8 +568,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Luna_Park_Sydney",
       "Wikipedia": "https://en.wikipedia.org/wiki/Luna_Park_Sydney",
       "Official Website": "https://www.lunaparksydney.com/",
-      "Lat": -33.8476528,
-      "Long": 151.2094607,
+      "Lat": "-33.8476528",
+      "Long": "151.2094607",
       "Id Ridetimes": "0"
     },
     {
@@ -579,8 +579,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Warner_Bros._Movie_World",
       "Wikipedia": "https://en.wikipedia.org/wiki/Warner_Bros._Movie_World",
       "Official Website": "https://movieworld.com.au/",
-      "Lat": -27.9073221,
-      "Long": 153.3131155,
+      "Lat": "-27.9073221",
+      "Long": "153.3131155",
       "Id Ridetimes": "0"
     },
     {
@@ -590,8 +590,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Luna_Park_Melbourne",
       "Wikipedia": "https://en.wikipedia.org/wiki/Luna_Park_Melbourne",
       "Official Website": "https://lunapark.com.au/",
-      "Lat": -37.867269,
-      "Long": 144.9768721,
+      "Lat": "-37.867269",
+      "Long": "144.9768721",
       "Id Ridetimes": "0"
     },
     {
@@ -601,8 +601,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Magic_Kingdom",
       "Wikipedia": "https://en.wikipedia.org/wiki/Magic_Kingdom",
       "Official Website": "https://disneyworld.disney.go.com/destinations/magic-kingdom/",
-      "Lat": 28.4190753,
-      "Long": -81.5817158,
+      "Lat": "28.4190753",
+      "Long": "-81.5817158",
       "Id Ridetimes": "6"
     },
     {
@@ -612,8 +612,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/EPCOT",
       "Wikipedia": "https://en.wikipedia.org/wiki/EPCOT",
       "Official Website": "https://disneyworld.disney.go.com/destinations/epcot/",
-      "Lat": 28.3723638,
-      "Long": -81.5490454,
+      "Lat": "28.3723638",
+      "Long": "-81.5490454",
       "Id Ridetimes": "5"
     },
     {
@@ -623,8 +623,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Disney%27s_Hollywood_Studios",
       "Wikipedia": "https://en.wikipedia.org/wiki/Disney%27s_Hollywood_Studios",
       "Official Website": "https://disneyworld.disney.go.com/destinations/hollywood-studios/",
-      "Lat": 28.3511837,
-      "Long": -81.5428875,
+      "Lat": "28.3511837",
+      "Long": "-81.5428875",
       "Id Ridetimes": "7"
     },
     {
@@ -634,8 +634,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Disney%27s_Animal_Kingdom",
       "Wikipedia": "https://en.wikipedia.org/wiki/Disney%27s_Animal_Kingdom",
       "Official Website": "https://disneyworld.disney.go.com/destinations/animal-kingdom/",
-      "Lat": 28.3607673,
-      "Long": -81.5914841,
+      "Lat": "28.3607673",
+      "Long": "-81.5914841",
       "Id Ridetimes": "8"
     },
     {
@@ -645,8 +645,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Disneyland_Park",
       "Wikipedia": "https://en.wikipedia.org/wiki/Disneyland",
       "Official Website": "https://disneyland.disney.go.com/destinations/disneyland/",
-      "Lat": 33.8136512,
-      "Long": -117.9197351,
+      "Lat": "33.8136512",
+      "Long": "-117.9197351",
       "Id Ridetimes": "16"
     },
     {
@@ -656,8 +656,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Disney_California_Adventure",
       "Wikipedia": "https://en.wikipedia.org/wiki/Disney_California_Adventure",
       "Official Website": "https://disneyland.disney.go.com/destinations/disney-california-adventure/",
-      "Lat": 33.8106725,
-      "Long": -117.9196769,
+      "Lat": "33.8106725",
+      "Long": "-117.9196769",
       "Id Ridetimes": "17"
     },
     {
@@ -667,8 +667,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Disneyland_Park_(Paris)",
       "Wikipedia": "https://en.wikipedia.org/wiki/Disneyland_Paris",
       "Official Website": "https://www.disneylandparis.com/en-gb/destinations/disneyland-park/",
-      "Lat": 48.872356,
-      "Long": 2.777219,
+      "Lat": "48.872356",
+      "Long": "2.777219",
       "Id Ridetimes": "4"
     },
     {
@@ -678,8 +678,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Walt_Disney_Studios_Park",
       "Wikipedia": "https://en.wikipedia.org/wiki/Walt_Disney_Studios_Park",
       "Official Website": "https://www.disneylandparis.com/en-gb/destinations/walt-disney-studios-park/",
-      "Lat": 48.867902,
-      "Long": 2.781459,
+      "Lat": "48.867902",
+      "Long": "2.781459",
       "Id Ridetimes": "28"
     },
     {
@@ -689,8 +689,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Tokyo_Disneyland",
       "Wikipedia": "https://en.wikipedia.org/wiki/Tokyo_Disneyland",
       "Official Website": "https://www.tokyodisneyresort.jp/en/tdl/",
-      "Lat": 35.6324586,
-      "Long": 139.8809089,
+      "Lat": "35.6324586",
+      "Long": "139.8809089",
       "Id Ridetimes": "274"
     },
     {
@@ -700,8 +700,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Tokyo_DisneySea",
       "Wikipedia": "https://en.wikipedia.org/wiki/Tokyo_DisneySea",
       "Official Website": "https://www.tokyodisneyresort.jp/en/tds/",
-      "Lat": 35.6268965,
-      "Long": 139.8852089,
+      "Lat": "35.6268965",
+      "Long": "139.8852089",
       "Id Ridetimes": "275"
     },
     {
@@ -711,8 +711,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Hong_Kong_Disneyland",
       "Wikipedia": "https://en.wikipedia.org/wiki/Hong_Kong_Disneyland",
       "Official Website": "https://www.hongkongdisneyland.com/",
-      "Lat": 22.3121685,
-      "Long": 114.042378,
+      "Lat": "22.3121685",
+      "Long": "114.042378",
       "Id Ridetimes": "31"
     },
     {
@@ -722,8 +722,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Shanghai_Disneyland",
       "Wikipedia": "https://en.wikipedia.org/wiki/Shanghai_Disneyland",
       "Official Website": "https://www.shanghaidisneyresort.com/en/",
-      "Lat": 31.1433612,
-      "Long": 121.6619839,
+      "Lat": "31.1433612",
+      "Long": "121.6619839",
       "Id Ridetimes": "30"
     },
     {
@@ -733,8 +733,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_America",
       "Wikipedia": "https://en.wikipedia.org/wiki/Six_Flags_America",
       "Official Website": "https://www.sixflags.com/america",
-      "Lat": 38.9087922,
-      "Long": -76.7752563,
+      "Lat": "38.9087922",
+      "Long": "-76.7752563",
       "Id Ridetimes": "42"
     },
     {
@@ -744,8 +744,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_Darien_Lake",
       "Wikipedia": "https://en.wikipedia.org/wiki/Six_Flags_Darien_Lake",
       "Official Website": "https://www.sixflags.com/darienlake",
-      "Lat": 42.9309386,
-      "Long": -78.3804093,
+      "Lat": "42.9309386",
+      "Long": "-78.3804093",
       "Id Ridetimes": "281"
     },
     {
@@ -755,8 +755,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_Discovery_Kingdom",
       "Wikipedia": "https://en.wikipedia.org/wiki/Six_Flags_Discovery_Kingdom",
       "Official Website": "https://www.sixflags.com/discoverykingdom",
-      "Lat": 38.1381327,
-      "Long": -122.2337366,
+      "Lat": "38.1381327",
+      "Long": "-122.2337366",
       "Id Ridetimes": "33"
     },
     {
@@ -766,8 +766,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_Fiesta_Texas",
       "Wikipedia": "https://en.wikipedia.org/wiki/Six_Flags_Fiesta_Texas",
       "Official Website": "https://www.sixflags.com/fiestatexas",
-      "Lat": 29.5997891,
-      "Long": -98.6088715,
+      "Lat": "29.5997891",
+      "Long": "-98.6088715",
       "Id Ridetimes": "39"
     },
     {
@@ -777,8 +777,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_Great_Adventure",
       "Wikipedia": "https://en.wikipedia.org/wiki/Six_Flags_Great_Adventure",
       "Official Website": "https://www.sixflags.com/greatadventure",
-      "Lat": 40.1343634,
-      "Long": -74.4416524,
+      "Lat": "40.1343634",
+      "Long": "-74.4416524",
       "Id Ridetimes": "37"
     },
     {
@@ -788,8 +788,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_Great_America",
       "Wikipedia": "https://en.wikipedia.org/wiki/Six_Flags_Great_America",
       "Official Website": "https://www.sixflags.com/greatamerica",
-      "Lat": 42.3693476,
-      "Long": -87.932861,
+      "Lat": "42.3693476",
+      "Long": "-87.932861",
       "Id Ridetimes": "38"
     },
     {
@@ -799,8 +799,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_Great_Escape",
       "Wikipedia": "https://en.wikipedia.org/wiki/Six_Flags_Great_Escape",
       "Official Website": "https://www.sixflags.com/greatescape",
-      "Lat": 43.3500811,
-      "Long": -73.682683,
+      "Lat": "43.3500811",
+      "Long": "-73.682683",
       "Id Ridetimes": "45"
     },
     {
@@ -810,8 +810,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_Magic_Mountain",
       "Wikipedia": "https://en.wikipedia.org/wiki/Six_Flags_Magic_Mountain",
       "Official Website": "https://www.sixflags.com/magicmountain",
-      "Lat": 34.4250568,
-      "Long": -118.5970454,
+      "Lat": "34.4250568",
+      "Long": "-118.5970454",
       "Id Ridetimes": "32"
     },
     {
@@ -821,8 +821,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_Mexico",
       "Wikipedia": "https://en.wikipedia.org/wiki/Six_Flags_Mexico",
       "Official Website": "https://www.sixflags.com/mexico",
-      "Lat": 19.2953004,
-      "Long": -99.2097863,
+      "Lat": "19.2953004",
+      "Long": "-99.2097863",
       "Id Ridetimes": "47"
     },
     {
@@ -832,8 +832,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_New_England",
       "Wikipedia": "https://en.wikipedia.org/wiki/Six_Flags_New_England",
       "Official Website": "https://www.sixflags.com/newengland",
-      "Lat": 42.0355098,
-      "Long": -72.6146589,
+      "Lat": "42.0355098",
+      "Long": "-72.6146589",
       "Id Ridetimes": "43"
     },
     {
@@ -843,8 +843,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_Over_Georgia",
       "Wikipedia": "https://en.wikipedia.org/wiki/Six_Flags_Over_Georgia",
       "Official Website": "https://www.sixflags.com/overgeorgia",
-      "Lat": 33.7670764,
-      "Long": -84.5510718,
+      "Lat": "33.7670764",
+      "Long": "-84.5510718",
       "Id Ridetimes": "35"
     },
     {
@@ -854,8 +854,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_Over_Texas",
       "Wikipedia": "https://en.wikipedia.org/wiki/Six_Flags_Over_Texas",
       "Official Website": "https://www.sixflags.com/overtexas",
-      "Lat": 32.7558724,
-      "Long": -97.071715,
+      "Lat": "32.7558724",
+      "Long": "-97.071715",
       "Id Ridetimes": "34"
     },
     {
@@ -865,8 +865,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_St._Louis",
       "Wikipedia": "https://en.wikipedia.org/wiki/Six_Flags_St._Louis",
       "Official Website": "https://www.sixflags.com/stlouis",
-      "Lat": 38.5150388,
-      "Long": -90.6755157,
+      "Lat": "38.5150388",
+      "Long": "-90.6755157",
       "Id Ridetimes": "36"
     },
     {
@@ -876,8 +876,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/California%27s_Great_America",
       "Wikipedia": "https://en.wikipedia.org/wiki/California%27s_Great_America",
       "Official Website": "https://www.cagreatamerica.com/",
-      "Lat": 37.3954145,
-      "Long": -121.972086,
+      "Lat": "37.3954145",
+      "Long": "-121.972086",
       "Id Ridetimes": "57"
     },
     {
@@ -887,8 +887,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Canada%27s_Wonderland",
       "Wikipedia": "https://en.wikipedia.org/wiki/Canada%27s_Wonderland",
       "Official Website": "https://www.canadaswonderland.com/",
-      "Lat": 43.8420285,
-      "Long": -79.5429872,
+      "Lat": "43.8420285",
+      "Long": "-79.5429872",
       "Id Ridetimes": "58"
     },
     {
@@ -898,8 +898,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Carowinds",
       "Wikipedia": "https://en.wikipedia.org/wiki/Carowinds",
       "Official Website": "https://www.carowinds.com/",
-      "Lat": 35.1029168,
-      "Long": -80.9416589,
+      "Lat": "35.1029168",
+      "Long": "-80.9416589",
       "Id Ridetimes": "59"
     },
     {
@@ -909,8 +909,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Cedar_Point",
       "Wikipedia": "https://en.wikipedia.org/wiki/Cedar_Point",
       "Official Website": "https://www.cedarpoint.com/",
-      "Lat": 41.482602,
-      "Long": -82.6861852,
+      "Lat": "41.482602",
+      "Long": "-82.6861852",
       "Id Ridetimes": "50"
     },
     {
@@ -920,8 +920,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Dorney_Park",
       "Wikipedia": "https://en.wikipedia.org/wiki/Dorney_Park_&_Wildwater_Kingdom",
       "Official Website": "https://www.dorneypark.com/",
-      "Lat": 40.5794061,
-      "Long": -75.531282,
+      "Lat": "40.5794061",
+      "Long": "-75.531282",
       "Id Ridetimes": "69"
     },
     {
@@ -931,8 +931,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Kings_Dominion",
       "Wikipedia": "https://en.wikipedia.org/wiki/Kings_Dominion",
       "Official Website": "https://www.kingsdominion.com/",
-      "Lat": 37.8368996,
-      "Long": -77.443339,
+      "Lat": "37.8368996",
+      "Long": "-77.443339",
       "Id Ridetimes": "62"
     },
     {
@@ -942,8 +942,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Kings_Island",
       "Wikipedia": "https://en.wikipedia.org/wiki/Kings_Island",
       "Official Website": "https://www.visitkingsisland.com/",
-      "Lat": 39.3440418,
-      "Long": -84.2677725,
+      "Lat": "39.3440418",
+      "Long": "-84.2677725",
       "Id Ridetimes": "60"
     },
     {
@@ -953,8 +953,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Knott%27s_Berry_Farm",
       "Wikipedia": "https://en.wikipedia.org/wiki/Knott%27s_Berry_Farm",
       "Official Website": "https://www.knotts.com/",
-      "Lat": 33.8437507,
-      "Long": -118.0005672,
+      "Lat": "33.8437507",
+      "Long": "-118.0005672",
       "Id Ridetimes": "61"
     },
     {
@@ -964,8 +964,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Michigan%27s_Adventure",
       "Wikipedia": "https://en.wikipedia.org/wiki/Michigan%27s_Adventure",
       "Official Website": "https://www.miadventure.com/",
-      "Lat": 43.3447001,
-      "Long": -86.275874,
+      "Lat": "43.3447001",
+      "Long": "-86.275874",
       "Id Ridetimes": "70"
     },
     {
@@ -975,8 +975,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Valleyfair",
       "Wikipedia": "https://en.wikipedia.org/wiki/Valleyfair",
       "Official Website": "https://www.valleyfair.com/",
-      "Lat": 44.8000026,
-      "Long": -93.4591642,
+      "Lat": "44.8000026",
+      "Long": "-93.4591642",
       "Id Ridetimes": "68"
     },
     {
@@ -986,8 +986,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Worlds_of_Fun",
       "Wikipedia": "https://en.wikipedia.org/wiki/Worlds_of_Fun",
       "Official Website": "https://www.worldsoffun.com/",
-      "Lat": 39.1730877,
-      "Long": -94.4854633,
+      "Lat": "39.1730877",
+      "Long": "-94.4854633",
       "Id Ridetimes": "63"
     },
     {
@@ -997,8 +997,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Silver_Dollar_City",
       "Wikipedia": "https://en.wikipedia.org/wiki/Silver_Dollar_City",
       "Official Website": "https://www.silverdollarcity.com/",
-      "Lat": 36.6698534,
-      "Long": -93.3396172,
+      "Lat": "36.6698534",
+      "Long": "-93.3396172",
       "Id Ridetimes": "10"
     },
     {
@@ -1008,8 +1008,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Fun_Spot_America",
       "Wikipedia": "https://en.wikipedia.org/wiki/Fun_Spot_America",
       "Official Website": "https://fun-spot.com/orlando/",
-      "Lat": 28.4654163,
-      "Long": -81.4559322,
+      "Lat": "28.4654163",
+      "Long": "-81.4559322",
       "Id Ridetimes": "0"
     },
     {
@@ -1019,8 +1019,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Fun_Spot_America",
       "Wikipedia": "https://en.wikipedia.org/wiki/Fun_Spot_America",
       "Official Website": "https://fun-spot.com/kissimmee/",
-      "Lat": 28.3303766,
-      "Long": -81.5146681,
+      "Lat": "28.3303766",
+      "Long": "-81.5146681",
       "Id Ridetimes": "0"
     },
     {
@@ -1030,8 +1030,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Fun_Spot_America",
       "Wikipedia": "https://en.wikipedia.org/wiki/Fun_Spot_America",
       "Official Website": "https://fun-spot.com/atlanta/",
-      "Lat": 33.4962764,
-      "Long": -84.4274268,
+      "Lat": "33.4962764",
+      "Long": "-84.4274268",
       "Id Ridetimes": "0"
     },
     {
@@ -1041,8 +1041,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Gold_Reef_City",
       "Wikipedia": "https://en.wikipedia.org/wiki/Gold_Reef_City",
       "Official Website": "https://www.tsogosun.com/gold-reef-city-casino/entertainment/theme-park",
-      "Lat": -26.2362127,
-      "Long": 28.0131005,
+      "Lat": "-26.2362127",
+      "Long": "28.0131005",
       "Id Ridetimes": "0"
     },
     {
@@ -1052,8 +1052,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Fantasiana",
       "Wikipedia": "https://en.wikipedia.org/wiki/Fantasiana",
       "Official Website": "https://www.fantasiana.at/",
-      "Lat": 47.9849495,
-      "Long": 13.2726613,
+      "Lat": "47.9849495",
+      "Long": "13.2726613",
       "Id Ridetimes": "0"
     },
     {
@@ -1063,8 +1063,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Prater",
       "Wikipedia": "https://en.wikipedia.org/wiki/Wurstelprater",
       "Official Website": "https://www.praterwien.com/",
-      "Lat": 48.2164625,
-      "Long": 16.4005331,
+      "Lat": "48.2164625",
+      "Long": "16.4005331",
       "Id Ridetimes": "0"
     },
     {
@@ -1074,8 +1074,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Flamingo_Land",
       "Wikipedia": "https://en.wikipedia.org/wiki/Flamingo_Land",
       "Official Website": "https://www.flamingoland.co.uk/",
-      "Lat": 54.2096136,
-      "Long": -0.8064984,
+      "Lat": "54.2096136",
+      "Long": "-0.8064984",
       "Id Ridetimes": "0"
     },
     {
@@ -1085,8 +1085,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Hersheypark",
       "Wikipedia": "https://en.wikipedia.org/wiki/Hersheypark",
       "Official Website": "https://www.hersheypark.com/",
-      "Lat": 40.2881229,
-      "Long": -76.653552,
+      "Lat": "40.2881229",
+      "Long": "-76.653552",
       "Id Ridetimes": "0"
     },
     {
@@ -1096,8 +1096,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Holiday_World_%26_Splashin%27_Safari",
       "Wikipedia": "https://en.wikipedia.org/wiki/Holiday_World_%26_Splashin%27_Safari",
       "Official Website": "https://www.holidayworld.com/",
-      "Lat": 38.1227195,
-      "Long": -86.9105803,
+      "Lat": "38.1227195",
+      "Long": "-86.9105803",
       "Id Ridetimes": "0"
     },
     {
@@ -1107,8 +1107,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Kennywood",
       "Wikipedia": "https://en.wikipedia.org/wiki/Kennywood",
       "Official Website": "https://www.kennywood.com/",
-      "Lat": 40.3877779,
-      "Long": -79.8631645,
+      "Lat": "40.3877779",
+      "Long": "-79.8631645",
       "Id Ridetimes": "0"
     },
     {
@@ -1118,8 +1118,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Knoebels_Amusement_Resort",
       "Wikipedia": "https://en.wikipedia.org/wiki/Knoebels_Amusement_Resort",
       "Official Website": "https://www.knoebels.com/",
-      "Lat": 40.8785245,
-      "Long": -76.5037934,
+      "Lat": "40.8785245",
+      "Long": "-76.5037934",
       "Id Ridetimes": "314"
     },
     {
@@ -1129,8 +1129,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Linnanmäki",
       "Wikipedia": "https://en.wikipedia.org/wiki/Linnanmäki",
       "Official Website": "https://www.linnanmaki.fi/",
-      "Lat": 60.1882613,
-      "Long": 24.9403537,
+      "Lat": "60.1882613",
+      "Long": "24.9403537",
       "Id Ridetimes": "0"
     },
     {
@@ -1140,8 +1140,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Nigloland",
       "Wikipedia": "https://en.wikipedia.org/wiki/Nigloland",
       "Official Website": "https://www.nigloland.fr/",
-      "Lat": 48.261955,
-      "Long": 4.615703,
+      "Lat": "48.261955",
+      "Long": "4.615703",
       "Id Ridetimes": "0"
     },
     {
@@ -1151,8 +1151,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Ferrari_World",
       "Wikipedia": "https://en.wikipedia.org/wiki/Ferrari_World",
       "Official Website": "https://www.ferrariworldabudhabi.com/",
-      "Lat": 24.4840718,
-      "Long": 54.609834,
+      "Lat": "24.4840718",
+      "Long": "54.609834",
       "Id Ridetimes": "0"
     },
     {
@@ -1162,8 +1162,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/IMG_Worlds_of_Adventure",
       "Wikipedia": "https://en.wikipedia.org/wiki/IMG_Worlds_of_Adventure",
       "Official Website": "https://www.imgworlds.com/",
-      "Lat": 25.0813943,
-      "Long": 55.3181342,
+      "Lat": "25.0813943",
+      "Long": "55.3181342",
       "Id Ridetimes": "0"
     },
     {
@@ -1173,8 +1173,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Nickelodeon_Universe_American_Dream",
       "Wikipedia": "https://en.wikipedia.org/wiki/Nickelodeon_Universe",
       "Official Website": "https://mallofamerica.com/directory/nickelodeon-universe",
-      "Lat": 40.8085686,
-      "Long": -74.0700834,
+      "Lat": "40.8085686",
+      "Long": "-74.0700834",
       "Id Ridetimes": "0"
     },
     {
@@ -1184,8 +1184,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Lakemont_Park",
       "Wikipedia": "https://en.wikipedia.org/wiki/Lakemont_Park",
       "Official Website": "https://lakemontparkfun.com/",
-      "Lat": 40.4706369,
-      "Long": -78.3951755,
+      "Lat": "40.4706369",
+      "Long": "-78.3951755",
       "Id Ridetimes": "0"
     },
     {
@@ -1195,8 +1195,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Lagoon",
       "Wikipedia": "https://en.wikipedia.org/wiki/Lagoon_(amusement_park)",
       "Official Website": "https://www.lagoonpark.com/",
-      "Lat": 40.9859652,
-      "Long": -111.8927528,
+      "Lat": "40.9859652",
+      "Long": "-111.8927528",
       "Id Ridetimes": "0"
     },
     {
@@ -1206,8 +1206,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Energylandia",
       "Wikipedia": "https://en.wikipedia.org/wiki/Energylandia",
       "Official Website": "https://energylandia.pl/",
-      "Lat": 49.9995,
-      "Long": 19.408306,
+      "Lat": "49.9995",
+      "Long": "19.408306",
       "Id Ridetimes": "317"
     },
     {
@@ -1217,8 +1217,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Legendia",
       "Wikipedia": "https://en.wikipedia.org/wiki/Legendia",
       "Official Website": "https://www.legendia.pl/",
-      "Lat": 50.274583,
-      "Long": 18.991528,
+      "Lat": "50.274583",
+      "Long": "18.991528",
       "Id Ridetimes": "0"
     },
     {
@@ -1228,8 +1228,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Ferrari_Land",
       "Wikipedia": "https://en.wikipedia.org/wiki/PortAventura_World",
       "Official Website": "https://www.portaventuraworld.com/en/ferrari-land",
-      "Lat": 41.08475,
-      "Long": 1.151972,
+      "Lat": "41.08475",
+      "Long": "1.151972",
       "Id Ridetimes": "277"
     },
     {
@@ -1239,8 +1239,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Gr%C3%B6na_Lund",
       "Wikipedia": "https://en.wikipedia.org/wiki/Gr%C3%B6na_Lund",
       "Official Website": "https://www.gronalund.com/",
-      "Lat": 59.323583,
-      "Long": 18.096694,
+      "Lat": "59.323583",
+      "Long": "18.096694",
       "Id Ridetimes": "166"
     },
     {
@@ -1250,8 +1250,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/F%C3%A5rup_Sommerland",
       "Wikipedia": "https://en.wikipedia.org/wiki/F%C3%A5rup_Summer_Park",
       "Official Website": "https://www.faarupsommerland.dk/",
-      "Lat": 57.270389,
-      "Long": 9.644778,
+      "Lat": "57.270389",
+      "Long": "9.644778",
       "Id Ridetimes": "18"
     },
     {
@@ -1261,8 +1261,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Liseberg",
       "Wikipedia": "https://en.wikipedia.org/wiki/Liseberg",
       "Official Website": "https://www.liseberg.se/",
-      "Lat": 57.695111,
-      "Long": 11.991944,
+      "Lat": "57.695111",
+      "Long": "11.991944",
       "Id Ridetimes": "11"
     },
     {
@@ -1272,8 +1272,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/TusenFryd",
       "Wikipedia": "https://en.wikipedia.org/wiki/Tusenfryd",
       "Official Website": "https://www.tusenfryd.no/",
-      "Lat": 59.74775,
-      "Long": 10.776556,
+      "Lat": "59.74775",
+      "Long": "10.776556",
       "Id Ridetimes": "0"
     },
     {
@@ -1283,8 +1283,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Tivoli_Gardens",
       "Wikipedia": "https://en.wikipedia.org/wiki/Tivoli_Gardens",
       "Official Website": "https://www.tivoli.dk/",
-      "Lat": 55.673556,
-      "Long": 12.568389,
+      "Lat": "55.673556",
+      "Long": "12.568389",
       "Id Ridetimes": "0"
     },
     {
@@ -1294,8 +1294,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Kolm%C3%A5rden",
       "Wikipedia": "https://en.wikipedia.org/wiki/Kolm%C3%A5rden_Wildlife_Park",
       "Official Website": "https://www.kolmarden.com/",
-      "Lat": 58.661361,
-      "Long": 16.448139,
+      "Lat": "58.661361",
+      "Long": "16.448139",
       "Id Ridetimes": "0"
     },
     {
@@ -1305,8 +1305,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Holiday_Park",
       "Wikipedia": "https://en.wikipedia.org/wiki/Holiday_Park,_Germany",
       "Official Website": "https://www.holidaypark.de/",
-      "Lat": 49.318667,
-      "Long": 8.297722,
+      "Lat": "49.318667",
+      "Long": "8.297722",
       "Id Ridetimes": "302"
     },
     {
@@ -1316,8 +1316,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Glenwood_Caverns_Adventure_Park",
       "Wikipedia": "https://en.wikipedia.org/wiki/Glenwood_Caverns_Adventure_Park",
       "Official Website": "https://www.glenwoodcaverns.com/",
-      "Lat": 39.560611,
-      "Long": -107.32,
+      "Lat": "39.560611",
+      "Long": "-107.32",
       "Id Ridetimes": "0"
     },
     {
@@ -1327,8 +1327,8 @@
       "Coasterpedia": "https://coasterpedia.net/wiki/Etnaland",
       "Wikipedia": "https://de.wikipedia.org/wiki/Etnaland?wprov=sfla1",
       "Official Website": "https://etnaland.eu/en/",
-      "Lat": 37.534722,
-      "Long": 14.934333,
+      "Lat": "37.534722",
+      "Long": "14.934333",
       "Id Ridetimes": "0"
     }
   ]

@@ -2181,7 +2181,7 @@
     {
       "Coaster ID": "100",
       "Park ID": "17",
-      "name": "The Swarm",
+      "name": "Swarm",
       "material": "Steel",
       "opened": "March 15 2012",
       "manufacturer": "Bolliger & Mabillard (B&M)",
@@ -4886,116 +4886,6 @@
     },
     {
       "Coaster ID": "223",
-      "Park ID": "39",
-      "name": "Creepy Crawler",
-      "material": "Steel",
-      "opened": "August 1 2017",
-      "manufacturer": "Pinfari",
-      "type": "RC40",
-      "duration": "1:30",
-      "heightft": "36",
-      "heightm": "11",
-      "lengthft": "1066",
-      "lengthm": "325",
-      "topspeedmph": "28",
-      "topspeedkmh": "45",
-      "inversions": "0",
-      "riders per train": "12",
-      "peopleperhour": "960",
-      "coasterpedia": "https://coasterpedia.net/wiki/Creepy_Crawler",
-      "RCDB": "https://rcdb.com/14113.htm",
-      "Queue-Times.com ID": "0"
-    },
-    {
-      "Coaster ID": "224",
-      "Park ID": "39",
-      "name": "Crocodile Coaster",
-      "material": "Steel",
-      "opened": "May 25 2013",
-      "manufacturer": "Modern Products",
-      "type": "Kiddie Powered Coaster",
-      "duration": "1:25",
-      "heightft": "unkown",
-      "heightm": "unkown",
-      "lengthft": "unkown",
-      "lengthm": "unkown",
-      "topspeedmph": "unkown",
-      "topspeedkmh": "unkown",
-      "inversions": "0",
-      "riders per train": "16",
-      "peopleperhour": "unkown",
-      "coasterpedia": "https://coasterpedia.net/wiki/Crocodile_Coaster",
-      "RCDB": "https://rcdb.com/6507.htm",
-      "Queue-Times.com ID": "0"
-    },
-    {
-      "Coaster ID": "225",
-      "Park ID": "39",
-      "name": "Megafobia",
-      "material": "Wooden",
-      "opened": "1996",
-      "manufacturer": "Custom Coasters International (Trains: PTC)",
-      "type": "Wooden",
-      "duration": "1:40",
-      "heightft": "85",
-      "heightm": "26",
-      "lengthft": "2956",
-      "lengthm": "901",
-      "topspeedmph": "48",
-      "topspeedkmh": "77",
-      "inversions": "0",
-      "riders per train": "24",
-      "peopleperhour": "unkown",
-      "coasterpedia": "https://coasterpedia.net/wiki/Megafobia",
-      "RCDB": "https://rcdb.com/756.htm",
-      "Queue-Times.com ID": "0"
-    },
-    {
-      "Coaster ID": "226",
-      "Park ID": "39",
-      "name": "Speed: No Limits",
-      "material": "Steel",
-      "opened": "April 13 2006",
-      "manufacturer": "Gerstlauer",
-      "type": "Eurofighter (600)",
-      "duration": "1:30",
-      "heightft": "115",
-      "heightm": "35",
-      "lengthft": "1970",
-      "lengthm": "600",
-      "topspeedmph": "59",
-      "topspeedkmh": "95",
-      "inversions": "2",
-      "riders per train": "8",
-      "peopleperhour": "800",
-      "coasterpedia": "https://coasterpedia.net/wiki/Speed:_No_Limits",
-      "RCDB": "https://rcdb.com/2721.htm",
-      "Queue-Times.com ID": "0"
-    },
-    {
-      "Coaster ID": "227",
-      "Park ID": "39",
-      "name": "Treetops Rollercoaster",
-      "material": "Steel",
-      "opened": "1989",
-      "manufacturer": "Zierer",
-      "type": "Tivoli - Large",
-      "duration": "unkown",
-      "heightft": "26",
-      "heightm": "8",
-      "lengthft": "1181",
-      "lengthm": "360",
-      "topspeedmph": "22",
-      "topspeedkmh": "36",
-      "inversions": "0",
-      "riders per train": "40",
-      "peopleperhour": "1250",
-      "coasterpedia": "https://coasterpedia.net/wiki/Treetops_Rollercoaster",
-      "RCDB": "https://rcdb.com/757.htm",
-      "Queue-Times.com ID": "0"
-    },
-    {
-      "Coaster ID": "228",
       "Park ID": "40",
       "name": "Backyardigans Mission To Mars",
       "material": "Steel",
@@ -5017,7 +4907,7 @@
       "Queue-Times.com ID": "11002"
     },
     {
-      "Coaster ID": "229",
+      "Coaster ID": "224",
       "Park ID": "40",
       "name": "Bandit",
       "material": "Wooden",
@@ -5039,7 +4929,7 @@
       "Queue-Times.com ID": "10987"
     },
     {
-      "Coaster ID": "230",
+      "Coaster ID": "225",
       "Park ID": "40",
       "name": "Ghost Chasers",
       "material": "Steel",
@@ -5061,7 +4951,7 @@
       "Queue-Times.com ID": "10997"
     },
     {
-      "Coaster ID": "231",
+      "Coaster ID": "226",
       "Park ID": "40",
       "name": "Iron Claw",
       "material": "Steel",
@@ -5083,7 +4973,7 @@
       "Queue-Times.com ID": "10982"
     },
     {
-      "Coaster ID": "232",
+      "Coaster ID": "227",
       "Park ID": "40",
       "name": "Jimmy Neutron's Atomic Flyer",
       "material": "Steel",
@@ -5105,7 +4995,7 @@
       "Queue-Times.com ID": "11001"
     },
     {
-      "Coaster ID": "233",
+      "Coaster ID": "228",
       "Park ID": "40",
       "name": "Movie Park Studio Tour",
       "material": "Steel",
@@ -5127,7 +5017,7 @@
       "Queue-Times.com ID": "10993"
     },
     {
-      "Coaster ID": "234",
+      "Coaster ID": "229",
       "Park ID": "40",
       "name": "Star Trek: Operation Enterprise",
       "material": "Steel",
@@ -5149,7 +5039,7 @@
       "Queue-Times.com ID": "10984"
     },
     {
-      "Coaster ID": "235",
+      "Coaster ID": "230",
       "Park ID": "40",
       "name": "Van Helsing's Factory",
       "material": "Steel",
@@ -5171,7 +5061,7 @@
       "Queue-Times.com ID": "11000"
     },
     {
-      "Coaster ID": "236",
+      "Coaster ID": "231",
       "Park ID": "41",
       "name": "#LikeMe Coaster",
       "material": "Steel",
@@ -5193,7 +5083,7 @@
       "Queue-Times.com ID": "5585"
     },
     {
-      "Coaster ID": "237",
+      "Coaster ID": "232",
       "Park ID": "41",
       "name": "Anubis The Ride",
       "material": "Steel",
@@ -5215,7 +5105,7 @@
       "Queue-Times.com ID": "5590"
     },
     {
-      "Coaster ID": "238",
+      "Coaster ID": "233",
       "Park ID": "41",
       "name": "Draak",
       "material": "Steel",
@@ -5237,7 +5127,7 @@
       "Queue-Times.com ID": "9128"
     },
     {
-      "Coaster ID": "239",
+      "Coaster ID": "234",
       "Park ID": "41",
       "name": "Heidi The Ride",
       "material": "Wooden",
@@ -5259,7 +5149,7 @@
       "Queue-Times.com ID": "5594"
     },
     {
-      "Coaster ID": "240",
+      "Coaster ID": "235",
       "Park ID": "41",
       "name": "K3 Roller Skater",
       "material": "Steel",
@@ -5281,7 +5171,7 @@
       "Queue-Times.com ID": "9153"
     },
     {
-      "Coaster ID": "241",
+      "Coaster ID": "236",
       "Park ID": "41",
       "name": "Ride to Happiness by Tomorrowland",
       "material": "Steel",
@@ -5303,7 +5193,7 @@
       "Queue-Times.com ID": "9164"
     },
     {
-      "Coaster ID": "242",
+      "Coaster ID": "237",
       "Park ID": "41",
       "name": "SuperSplash",
       "material": "Steel",
@@ -5325,7 +5215,7 @@
       "Queue-Times.com ID": "5591"
     },
     {
-      "Coaster ID": "243",
+      "Coaster ID": "238",
       "Park ID": "42",
       "name": "Matugani",
       "material": "Steel",
@@ -5347,7 +5237,7 @@
       "Queue-Times.com ID": "0"
     },
     {
-      "Coaster ID": "244",
+      "Coaster ID": "239",
       "Park ID": "42",
       "name": "Nopuko Air Coaster",
       "material": "Steel",
@@ -5369,7 +5259,7 @@
       "Queue-Times.com ID": "0"
     },
     {
-      "Coaster ID": "245",
+      "Coaster ID": "240",
       "Park ID": "42",
       "name": "Lokolo",
       "material": "Steel",
@@ -5391,7 +5281,7 @@
       "Queue-Times.com ID": "0"
     },
     {
-      "Coaster ID": "246",
+      "Coaster ID": "241",
       "Park ID": "43",
       "name": "Booster Bike",
       "material": "Steel",
@@ -5413,7 +5303,7 @@
       "Queue-Times.com ID": "9334"
     },
     {
-      "Coaster ID": "247",
+      "Coaster ID": "242",
       "Park ID": "43",
       "name": "Dwervelwind",
       "material": "Steel",
@@ -5435,7 +5325,7 @@
       "Queue-Times.com ID": "9329"
     },
     {
-      "Coaster ID": "248",
+      "Coaster ID": "243",
       "Park ID": "43",
       "name": "Fēnix",
       "material": "Steel",
@@ -5457,7 +5347,7 @@
       "Queue-Times.com ID": "9327"
     },
     {
-      "Coaster ID": "249",
+      "Coaster ID": "244",
       "Park ID": "43",
       "name": "Maximus' Blitz Bahn",
       "material": "Steel",
@@ -5479,7 +5369,7 @@
       "Queue-Times.com ID": "9342"
     },
     {
-      "Coaster ID": "250",
+      "Coaster ID": "245",
       "Park ID": "43",
       "name": "Toos-Express",
       "material": "Steel",
@@ -5501,7 +5391,7 @@
       "Queue-Times.com ID": "9345"
     },
     {
-      "Coaster ID": "251",
+      "Coaster ID": "246",
       "Park ID": "43",
       "name": "Troy",
       "material": "Wooden",
@@ -5523,7 +5413,7 @@
       "Queue-Times.com ID": "9338"
     },
     {
-      "Coaster ID": "252",
+      "Coaster ID": "247",
       "Park ID": "44",
       "name": "Baron 1898",
       "material": "Steel",
@@ -5545,7 +5435,7 @@
       "Queue-Times.com ID": "6170"
     },
     {
-      "Coaster ID": "253",
+      "Coaster ID": "248",
       "Park ID": "44",
       "name": "Joris en de Draak (Water)",
       "material": "Wooden",
@@ -5567,7 +5457,7 @@
       "Queue-Times.com ID": "6167"
     },
     {
-      "Coaster ID": "254",
+      "Coaster ID": "249",
       "Park ID": "44",
       "name": "Joris en de Draak (Vuur)",
       "material": "Wooden",
@@ -5589,7 +5479,7 @@
       "Queue-Times.com ID": "6167"
     },
     {
-      "Coaster ID": "255",
+      "Coaster ID": "250",
       "Park ID": "44",
       "name": "Max ( & Moritz)",
       "material": "Steel",
@@ -5611,7 +5501,7 @@
       "Queue-Times.com ID": "7356"
     },
     {
-      "Coaster ID": "256",
+      "Coaster ID": "251",
       "Park ID": "44",
       "name": "Moritz ( & Max)",
       "material": "Steel",
@@ -5633,7 +5523,7 @@
       "Queue-Times.com ID": "7356"
     },
     {
-      "Coaster ID": "257",
+      "Coaster ID": "252",
       "Park ID": "44",
       "name": "Python",
       "material": "Steel",
@@ -5655,7 +5545,7 @@
       "Queue-Times.com ID": "6163"
     },
     {
-      "Coaster ID": "258",
+      "Coaster ID": "253",
       "Park ID": "44",
       "name": "Vliegende Hollander",
       "material": "Steel",
@@ -5677,7 +5567,7 @@
       "Queue-Times.com ID": "6166"
     },
     {
-      "Coaster ID": "259",
+      "Coaster ID": "254",
       "Park ID": "44",
       "name": "Vogel Rok",
       "material": "Steel",
@@ -5699,7 +5589,7 @@
       "Queue-Times.com ID": "6177"
     },
     {
-      "Coaster ID": "260",
+      "Coaster ID": "255",
       "Park ID": "45",
       "name": "Goudurix",
       "material": "Steel",
@@ -5721,7 +5611,7 @@
       "Queue-Times.com ID": "5651"
     },
     {
-      "Coaster ID": "261",
+      "Coaster ID": "256",
       "Park ID": "45",
       "name": "OzIris",
       "material": "Steel",
@@ -5743,7 +5633,7 @@
       "Queue-Times.com ID": "13310"
     },
     {
-      "Coaster ID": "262",
+      "Coaster ID": "257",
       "Park ID": "45",
       "name": "Pégase Express",
       "material": "Steel",
@@ -5765,7 +5655,7 @@
       "Queue-Times.com ID": "5642"
     },
     {
-      "Coaster ID": "263",
+      "Coaster ID": "258",
       "Park ID": "45",
       "name": "SOS Tournevis",
       "material": "Steel",
@@ -5787,7 +5677,7 @@
       "Queue-Times.com ID": "6153"
     },
     {
-      "Coaster ID": "264",
+      "Coaster ID": "259",
       "Park ID": "45",
       "name": "Tonnerre 2 Zeus",
       "material": "Wooden",
@@ -5809,7 +5699,7 @@
       "Queue-Times.com ID": "10760"
     },
     {
-      "Coaster ID": "265",
+      "Coaster ID": "260",
       "Park ID": "45",
       "name": "Toutatis",
       "material": "Steel",
@@ -5831,7 +5721,7 @@
       "Queue-Times.com ID": "11770"
     },
     {
-      "Coaster ID": "266",
+      "Coaster ID": "261",
       "Park ID": "45",
       "name": "Trace du Hourra",
       "material": "Steel",
@@ -5853,7 +5743,7 @@
       "Queue-Times.com ID": "5650"
     },
     {
-      "Coaster ID": "267",
+      "Coaster ID": "262",
       "Park ID": "45",
       "name": "Vol d'Icare",
       "material": "Steel",
@@ -5875,7 +5765,7 @@
       "Queue-Times.com ID": "13320"
     },
     {
-      "Coaster ID": "268",
+      "Coaster ID": "263",
       "Park ID": "46",
       "name": "G'sengte Sau",
       "material": "Steel",
@@ -5897,7 +5787,7 @@
       "Queue-Times.com ID": "0"
     },
     {
-      "Coaster ID": "269",
+      "Coaster ID": "264",
       "Park ID": "46",
       "name": "Hals-über-Kopf",
       "material": "Steel",
@@ -5919,7 +5809,7 @@
       "Queue-Times.com ID": "0"
     },
     {
-      "Coaster ID": "270",
+      "Coaster ID": "265",
       "Park ID": "46",
       "name": "Karacho",
       "material": "Steel",
@@ -5941,7 +5831,7 @@
       "Queue-Times.com ID": "0"
     },
     {
-      "Coaster ID": "271",
+      "Coaster ID": "266",
       "Park ID": "46",
       "name": "Mammut",
       "material": "Wooden",
@@ -5963,7 +5853,7 @@
       "Queue-Times.com ID": "0"
     },
     {
-      "Coaster ID": "272",
+      "Coaster ID": "267",
       "Park ID": "46",
       "name": "Rasender Tausendfüßler",
       "material": "Steel",
@@ -5985,7 +5875,7 @@
       "Queue-Times.com ID": "0"
     },
     {
-      "Coaster ID": "273",
+      "Coaster ID": "268",
       "Park ID": "46",
       "name": "Volldampf",
       "material": "Steel",
@@ -6007,7 +5897,7 @@
       "Queue-Times.com ID": "0"
     },
     {
-      "Coaster ID": "274",
+      "Coaster ID": "269",
       "Park ID": "47",
       "name": "Boomerang",
       "material": "Steel",
@@ -6029,7 +5919,7 @@
       "Queue-Times.com ID": "0"
     },
     {
-      "Coaster ID": "275",
+      "Coaster ID": "270",
       "Park ID": "47",
       "name": "Brazilian Buggies",
       "material": "Steel",
@@ -6051,7 +5941,7 @@
       "Queue-Times.com ID": "12999"
     },
     {
-      "Coaster ID": "276",
+      "Coaster ID": "271",
       "Park ID": "47",
       "name": "Dawson Duel (Blue)",
       "material": "Steel",
@@ -6073,7 +5963,7 @@
       "Queue-Times.com ID": "6801"
     },
     {
-      "Coaster ID": "277",
+      "Coaster ID": "272",
       "Park ID": "47",
       "name": "Dawson Duel (Green)",
       "material": "Steel",
@@ -6095,7 +5985,7 @@
       "Queue-Times.com ID": "6801"
     },
     {
-      "Coaster ID": "278",
+      "Coaster ID": "273",
       "Park ID": "47",
       "name": "Huracan",
       "material": "Steel",
@@ -6117,7 +6007,7 @@
       "Queue-Times.com ID": "6799"
     },
     {
-      "Coaster ID": "279",
+      "Coaster ID": "274",
       "Park ID": "47",
       "name": "Wakala",
       "material": "Steel",
@@ -6139,7 +6029,7 @@
       "Queue-Times.com ID": "10180"
     },
     {
-      "Coaster ID": "280",
+      "Coaster ID": "275",
       "Park ID": "48",
       "name": "Condor",
       "material": "Steel",
@@ -6161,7 +6051,7 @@
       "Queue-Times.com ID": "6087"
     },
     {
-      "Coaster ID": "281",
+      "Coaster ID": "276",
       "Park ID": "48",
       "name": "Drako",
       "material": "Steel",
@@ -6183,7 +6073,7 @@
       "Queue-Times.com ID": "13283"
     },
     {
-      "Coaster ID": "282",
+      "Coaster ID": "277",
       "Park ID": "48",
       "name": "Eat My Dust",
       "material": "Steel",
@@ -6205,7 +6095,7 @@
       "Queue-Times.com ID": "11757"
     },
     {
-      "Coaster ID": "283",
+      "Coaster ID": "278",
       "Park ID": "48",
       "name": "Goliath",
       "material": "Steel",
@@ -6227,7 +6117,7 @@
       "Queue-Times.com ID": "6086"
     },
     {
-      "Coaster ID": "284",
+      "Coaster ID": "279",
       "Park ID": "48",
       "name": "Lost Gravity",
       "material": "Steel",
@@ -6249,7 +6139,7 @@
       "Queue-Times.com ID": "6092"
     },
     {
-      "Coaster ID": "285",
+      "Coaster ID": "280",
       "Park ID": "48",
       "name": "Speed of Sound",
       "material": "Steel",
@@ -6271,7 +6161,7 @@
       "Queue-Times.com ID": "6090"
     },
     {
-      "Coaster ID": "286",
+      "Coaster ID": "281",
       "Park ID": "48",
       "name": "Untamed",
       "material": "Hybrid",
@@ -6293,7 +6183,7 @@
       "Queue-Times.com ID": "7349"
     },
     {
-      "Coaster ID": "287",
+      "Coaster ID": "282",
       "Park ID": "48",
       "name": "Xpress: Platform 13",
       "material": "Steel",
@@ -6313,6 +6203,50 @@
       "coasterpedia": "https://coasterpedia.net/wiki/Xpress:_Platform_13",
       "RCDB": "https://rcdb.com/769.htm",
       "Queue-Times.com ID": "6091"
+    },
+    {
+      "Coaster ID": "283",
+      "Park ID": "48",
+      "name": "YOY Thrill",
+      "material": "Steel",
+      "opened": "April 5 2025",
+      "manufacturer": "Rocky Mountain Construction",
+      "type": "Raptor (Custom)",
+      "duration": "1:30",
+      "heightft": "95",
+      "heightm": "29",
+      "lengthft": "2149",
+      "lengthm": "655",
+      "topspeedmph": "49.7",
+      "topspeedkmh": "80",
+      "inversions": "6",
+      "riders per train": "8",
+      "peopleperhour": "unkown",
+      "coasterpedia": "https://coasterpedia.net/wiki/YOY",
+      "RCDB": "https://rcdb.com/20669.htm",
+      "Queue-Times.com ID": "14510"
+    },
+    {
+      "Coaster ID": "284",
+      "Park ID": "48",
+      "name": "YOY Chill",
+      "material": "Steel",
+      "opened": "April 5 2025",
+      "manufacturer": "Rocky Mountain Construction",
+      "type": "Raptor (Custom)",
+      "duration": "1:30",
+      "heightft": "95",
+      "heightm": "29",
+      "lengthft": "2149",
+      "lengthm": "655",
+      "topspeedmph": "49.7",
+      "topspeedkmh": "80",
+      "inversions": "0",
+      "riders per train": "8",
+      "peopleperhour": "unkown",
+      "coasterpedia": "https://coasterpedia.net/wiki/YOY",
+      "RCDB": "https://rcdb.com/20669.htm",
+      "Queue-Times.com ID": "14509"
     }
   ]
 }

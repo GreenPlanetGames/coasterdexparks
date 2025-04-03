@@ -420,17 +420,6 @@
     },
     {
       "Park Index": "39",
-      "Park Name": "Oakwood Theme Park",
-      "Region": "Pembrokeshire, Wales",
-      "Coasterpedia": "https://coasterpedia.net/wiki/Oakwood_Theme_Park",
-      "Wikipedia": "https://en.wikipedia.org/wiki/Oakwood_Theme_Park",
-      "Official Website": "https://www.oakwoodthemepark.co.uk/",
-      "Lat": "51.7783381",
-      "Long": "-4.8038976",
-      "Id Ridetimes": "0"
-    },
-    {
-      "Park Index": "40",
       "Park Name": "Movie Park Germany",
       "Region": "North Rhine-Westphalia, Germany",
       "Coasterpedia": "https://coasterpedia.net/wiki/Movie_Park_Germany",
@@ -441,7 +430,7 @@
       "Id Ridetimes": "310"
     },
     {
-      "Park Index": "41",
+      "Park Index": "40",
       "Park Name": "Plopsaland de panne",
       "Region": "West Flanders, Belgium",
       "Coasterpedia": "https://coasterpedia.net/wiki/Plopsaland_De_Panne",
@@ -452,7 +441,7 @@
       "Id Ridetimes": "54"
     },
     {
-      "Park Index": "42",
+      "Park Index": "41",
       "Park Name": "Lost Island Themepark",
       "Region": "IA,USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Lost_Island_Theme_Park",
@@ -463,7 +452,7 @@
       "Id Ridetimes": "0"
     },
     {
-      "Park Index": "43",
+      "Park Index": "42",
       "Park Name": "Toverland",
       "Region": "Sevenum, Netherlands",
       "Coasterpedia": "https://coasterpedia.net/wiki/Toverland",
@@ -474,7 +463,7 @@
       "Id Ridetimes": "305"
     },
     {
-      "Park Index": "44",
+      "Park Index": "43",
       "Park Name": "Efteling",
       "Region": "Kaatsheuvel, Netherlands",
       "Coasterpedia": "https://coasterpedia.net/wiki/Efteling",
@@ -485,7 +474,7 @@
       "Id Ridetimes": "160"
     },
     {
-      "Park Index": "45",
+      "Park Index": "44",
       "Park Name": "Parc Astérix",
       "Region": "Plailly, Picardy, France",
       "Coasterpedia": "https://coasterpedia.net/wiki/Parc_Ast%C3%A9rix",
@@ -496,7 +485,7 @@
       "Id Ridetimes": "9"
     },
     {
-      "Park Index": "46",
+      "Park Index": "45",
       "Park Name": "Erlebnispark Tripsdrill",
       "Region": "Cleebronn, Germany",
       "Coasterpedia": "https://coasterpedia.net/wiki/Erlebnispark_Tripsdrill",
@@ -507,7 +496,7 @@
       "Id Ridetimes": "0"
     },
     {
-      "Park Index": "47",
+      "Park Index": "46",
       "Park Name": "Bellewaerde",
       "Region": "Ypres, Belgium",
       "Coasterpedia": "https://coasterpedia.net/wiki/Bellewaerde",
@@ -518,7 +507,7 @@
       "Id Ridetimes": "276"
     },
     {
-      "Park Index": "48",
+      "Park Index": "47",
       "Park Name": "Walibi Holland",
       "Region": "Biddinghuizen, Netherlands",
       "Coasterpedia": "https://coasterpedia.net/wiki/Walibi_Holland",
@@ -529,7 +518,7 @@
       "Id Ridetimes": "53"
     },
     {
-      "Park Index": "49",
+      "Park Index": "48",
       "Park Name": "Walibi Belgium",
       "Region": "Wavre, Belgium",
       "Coasterpedia": "https://coasterpedia.net/wiki/Walibi_Belgium",
@@ -540,7 +529,7 @@
       "Id Ridetimes": "14"
     },
     {
-      "Park Index": "50",
+      "Park Index": "49",
       "Park Name": "Walibi Rhône-Alpes",
       "Region": "Les Avenières, France",
       "Coasterpedia": "https://coasterpedia.net/wiki/Walibi_Rhône-Alpes",
@@ -551,7 +540,29 @@
       "Id Ridetimes": "301"
     },
     {
+      "Park Index": "50",
+      "Park Name": "Freizeitpark Plohn",
+      "Region": "Lengenfeld, Germany",
+      "Coasterpedia": "https://coasterpedia.net/wiki/Freizeitpark_Plohn",
+      "Wikipedia": "https://de.wikipedia.org/wiki/Freizeitpark_Plohn",
+      "Official Website": "https://www.freizeitpark-plohn.de/",
+      "Lat": "50.56559401613143",
+      "Long": "12.39949301803426",
+      "Id Ridetimes": "0"
+    },
+    {
       "Park Index": "51",
+      "Park Name": "Bobbejaanland",
+      "Region": "Olensteenweg, Belgium",
+      "Coasterpedia": "https://coasterpedia.net/wiki/Bobbejaanland",
+      "Wikipedia": "https://en.wikipedia.org/wiki/Bobbejaanland",
+      "Official Website": "https://www.bobbejaanland.be/",
+      "Lat": "51.20030118104284",
+      "Long": "4.9084796462316405",
+      "Id Ridetimes": "311"
+    },
+    {
+      "Park Index": "52",
       "Park Name": "Dreamworld",
       "Region": "Coomera, QLD, Australia",
       "Coasterpedia": "https://coasterpedia.net/wiki/Dreamworld",
@@ -562,7 +573,7 @@
       "Id Ridetimes": "0"
     },
     {
-      "Park Index": "52",
+      "Park Index": "53",
       "Park Name": "Luna Park",
       "Region": "Sydney, NSW, Australia",
       "Coasterpedia": "https://coasterpedia.net/wiki/Luna_Park_Sydney",
@@ -573,7 +584,7 @@
       "Id Ridetimes": "0"
     },
     {
-      "Park Index": "53",
+      "Park Index": "54",
       "Park Name": "Warner Bros. Movie World",
       "Region": "Oxenford, QLD, Australia",
       "Coasterpedia": "https://coasterpedia.net/wiki/Warner_Bros._Movie_World",
@@ -584,7 +595,7 @@
       "Id Ridetimes": "0"
     },
     {
-      "Park Index": "54",
+      "Park Index": "55",
       "Park Name": "Luna Park",
       "Region": "Melbourne, VIC, Australia",
       "Coasterpedia": "https://coasterpedia.net/wiki/Luna_Park_Melbourne",
@@ -595,7 +606,7 @@
       "Id Ridetimes": "0"
     },
     {
-      "Park Index": "55",
+      "Park Index": "56",
       "Park Name": "Magic Kingdom | Walt Disney World Resort",
       "Region": "Bay Lake, FL, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Magic_Kingdom",
@@ -606,7 +617,7 @@
       "Id Ridetimes": "6"
     },
     {
-      "Park Index": "56",
+      "Park Index": "57",
       "Park Name": "EPCOT | Walt Disney World Resort",
       "Region": "Bay Lake, FL, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/EPCOT",
@@ -617,7 +628,7 @@
       "Id Ridetimes": "5"
     },
     {
-      "Park Index": "57",
+      "Park Index": "58",
       "Park Name": "Disney's Hollywood Studios | Walt Disney World Resort",
       "Region": "Bay Lake, FL, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Disney%27s_Hollywood_Studios",
@@ -628,7 +639,7 @@
       "Id Ridetimes": "7"
     },
     {
-      "Park Index": "58",
+      "Park Index": "59",
       "Park Name": "Disney's Animal Kingdom | Walt Disney World Resort",
       "Region": "Bay Lake, FL, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Disney%27s_Animal_Kingdom",
@@ -639,7 +650,7 @@
       "Id Ridetimes": "8"
     },
     {
-      "Park Index": "59",
+      "Park Index": "60",
       "Park Name": "Disneyland Park | Disneyland Resort",
       "Region": "Anaheim, CA, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Disneyland_Park",
@@ -650,7 +661,7 @@
       "Id Ridetimes": "16"
     },
     {
-      "Park Index": "60",
+      "Park Index": "61",
       "Park Name": "Disney California Adventure Park | Disneyland Resort",
       "Region": "Anaheim, CA, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Disney_California_Adventure",
@@ -661,7 +672,7 @@
       "Id Ridetimes": "17"
     },
     {
-      "Park Index": "61",
+      "Park Index": "62",
       "Park Name": "Disneyland Park | Disneyland Paris",
       "Region": "Marne-la-Vallée, France",
       "Coasterpedia": "https://coasterpedia.net/wiki/Disneyland_Park_(Paris)",
@@ -672,7 +683,7 @@
       "Id Ridetimes": "4"
     },
     {
-      "Park Index": "62",
+      "Park Index": "63",
       "Park Name": "Walt Disney Studios Park | Disneyland Paris",
       "Region": "Marne-la-Vallée, France",
       "Coasterpedia": "https://coasterpedia.net/wiki/Walt_Disney_Studios_Park",
@@ -683,7 +694,7 @@
       "Id Ridetimes": "28"
     },
     {
-      "Park Index": "63",
+      "Park Index": "64",
       "Park Name": "Tokyo Disneyland | Tokyo Disney Resort",
       "Region": "Urayasu, Chiba, Japan",
       "Coasterpedia": "https://coasterpedia.net/wiki/Tokyo_Disneyland",
@@ -694,7 +705,7 @@
       "Id Ridetimes": "274"
     },
     {
-      "Park Index": "64",
+      "Park Index": "65",
       "Park Name": "Tokyo DisneySea | Tokyo Disney Resort",
       "Region": "Urayasu, Chiba, Japan",
       "Coasterpedia": "https://coasterpedia.net/wiki/Tokyo_DisneySea",
@@ -705,7 +716,7 @@
       "Id Ridetimes": "275"
     },
     {
-      "Park Index": "65",
+      "Park Index": "66",
       "Park Name": "Hong Kong Disneyland | Hong Kong Disneyland Resort",
       "Region": "Penny’s Bay, Lantau Island, Hong Kong",
       "Coasterpedia": "https://coasterpedia.net/wiki/Hong_Kong_Disneyland",
@@ -716,7 +727,7 @@
       "Id Ridetimes": "31"
     },
     {
-      "Park Index": "66",
+      "Park Index": "67",
       "Park Name": "Shanghai Disneyland | Shanghai Disney Resort",
       "Region": "Pudong, Shanghai, China",
       "Coasterpedia": "https://coasterpedia.net/wiki/Shanghai_Disneyland",
@@ -727,7 +738,7 @@
       "Id Ridetimes": "30"
     },
     {
-      "Park Index": "67",
+      "Park Index": "68",
       "Park Name": "Six Flags America",
       "Region": "Bowie, MD, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_America",
@@ -738,7 +749,7 @@
       "Id Ridetimes": "42"
     },
     {
-      "Park Index": "68",
+      "Park Index": "69",
       "Park Name": "Six Flags Darien Lake",
       "Region": "Darien Center, NY, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_Darien_Lake",
@@ -749,7 +760,7 @@
       "Id Ridetimes": "281"
     },
     {
-      "Park Index": "69",
+      "Park Index": "70",
       "Park Name": "Six Flags Discovery Kingdom",
       "Region": "Vallejo, CA, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_Discovery_Kingdom",
@@ -760,7 +771,7 @@
       "Id Ridetimes": "33"
     },
     {
-      "Park Index": "70",
+      "Park Index": "71",
       "Park Name": "Six Flags Fiesta Texas",
       "Region": "San Antonio, TX, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_Fiesta_Texas",
@@ -771,7 +782,7 @@
       "Id Ridetimes": "39"
     },
     {
-      "Park Index": "71",
+      "Park Index": "72",
       "Park Name": "Six Flags Great Adventure",
       "Region": "Jackson, NJ, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_Great_Adventure",
@@ -782,7 +793,7 @@
       "Id Ridetimes": "37"
     },
     {
-      "Park Index": "72",
+      "Park Index": "73",
       "Park Name": "Six Flags Great America",
       "Region": "Gurnee, IL, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_Great_America",
@@ -793,7 +804,7 @@
       "Id Ridetimes": "38"
     },
     {
-      "Park Index": "73",
+      "Park Index": "74",
       "Park Name": "Six Flags Great Escape",
       "Region": "Queensbury, NY, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_Great_Escape",
@@ -804,7 +815,7 @@
       "Id Ridetimes": "45"
     },
     {
-      "Park Index": "74",
+      "Park Index": "75",
       "Park Name": "Six Flags Magic Mountain",
       "Region": "Valencia, CA, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_Magic_Mountain",
@@ -815,7 +826,7 @@
       "Id Ridetimes": "32"
     },
     {
-      "Park Index": "75",
+      "Park Index": "76",
       "Park Name": "Six Flags Mexico",
       "Region": "Mexico City, Mexico",
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_Mexico",
@@ -826,7 +837,7 @@
       "Id Ridetimes": "47"
     },
     {
-      "Park Index": "76",
+      "Park Index": "77",
       "Park Name": "Six Flags New England",
       "Region": "Agawam, MA, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_New_England",
@@ -837,7 +848,7 @@
       "Id Ridetimes": "43"
     },
     {
-      "Park Index": "77",
+      "Park Index": "78",
       "Park Name": "Six Flags Over Georgia",
       "Region": "Austell, GA, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_Over_Georgia",
@@ -848,7 +859,7 @@
       "Id Ridetimes": "35"
     },
     {
-      "Park Index": "78",
+      "Park Index": "79",
       "Park Name": "Six Flags Over Texas",
       "Region": "Arlington, TX, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_Over_Texas",
@@ -859,7 +870,7 @@
       "Id Ridetimes": "34"
     },
     {
-      "Park Index": "79",
+      "Park Index": "80",
       "Park Name": "Six Flags St. Louis",
       "Region": "Eureka, MO, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Six_Flags_St._Louis",
@@ -870,7 +881,7 @@
       "Id Ridetimes": "36"
     },
     {
-      "Park Index": "80",
+      "Park Index": "81",
       "Park Name": "California's Great America",
       "Region": "Santa Clara, CA, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/California%27s_Great_America",
@@ -881,7 +892,7 @@
       "Id Ridetimes": "57"
     },
     {
-      "Park Index": "81",
+      "Park Index": "82",
       "Park Name": "Canada's Wonderland",
       "Region": "Vaughan, ON, Canada",
       "Coasterpedia": "https://coasterpedia.net/wiki/Canada%27s_Wonderland",
@@ -892,7 +903,7 @@
       "Id Ridetimes": "58"
     },
     {
-      "Park Index": "82",
+      "Park Index": "83",
       "Park Name": "Carowinds",
       "Region": "Charlotte, NC, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Carowinds",
@@ -903,7 +914,7 @@
       "Id Ridetimes": "59"
     },
     {
-      "Park Index": "83",
+      "Park Index": "84",
       "Park Name": "Cedar Point",
       "Region": "Sandusky, OH, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Cedar_Point",
@@ -914,7 +925,7 @@
       "Id Ridetimes": "50"
     },
     {
-      "Park Index": "84",
+      "Park Index": "85",
       "Park Name": "Dorney Park",
       "Region": "Allentown, PA, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Dorney_Park",
@@ -925,7 +936,7 @@
       "Id Ridetimes": "69"
     },
     {
-      "Park Index": "85",
+      "Park Index": "86",
       "Park Name": "Kings Dominion",
       "Region": "Doswell, VA, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Kings_Dominion",
@@ -936,7 +947,7 @@
       "Id Ridetimes": "62"
     },
     {
-      "Park Index": "86",
+      "Park Index": "87",
       "Park Name": "Kings Island",
       "Region": "Mason, OH, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Kings_Island",
@@ -947,7 +958,7 @@
       "Id Ridetimes": "60"
     },
     {
-      "Park Index": "87",
+      "Park Index": "88",
       "Park Name": "Knott's Berry Farm",
       "Region": "Buena Park, CA, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Knott%27s_Berry_Farm",
@@ -958,7 +969,7 @@
       "Id Ridetimes": "61"
     },
     {
-      "Park Index": "88",
+      "Park Index": "89",
       "Park Name": "Michigan's Adventure",
       "Region": "Muskegon, MI, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Michigan%27s_Adventure",
@@ -969,7 +980,7 @@
       "Id Ridetimes": "70"
     },
     {
-      "Park Index": "89",
+      "Park Index": "90",
       "Park Name": "Valleyfair",
       "Region": "Shakopee, MN, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Valleyfair",
@@ -980,7 +991,7 @@
       "Id Ridetimes": "68"
     },
     {
-      "Park Index": "90",
+      "Park Index": "91",
       "Park Name": "Worlds of Fun",
       "Region": "Kansas City, MO, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Worlds_of_Fun",
@@ -991,7 +1002,7 @@
       "Id Ridetimes": "63"
     },
     {
-      "Park Index": "91",
+      "Park Index": "92",
       "Park Name": "Silver Dollar City",
       "Region": "Branson, MO, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Silver_Dollar_City",
@@ -1002,7 +1013,7 @@
       "Id Ridetimes": "10"
     },
     {
-      "Park Index": "92",
+      "Park Index": "93",
       "Park Name": "Fun Spot America - Orlando",
       "Region": "Orlando, FL, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Fun_Spot_America",
@@ -1013,7 +1024,7 @@
       "Id Ridetimes": "0"
     },
     {
-      "Park Index": "93",
+      "Park Index": "94",
       "Park Name": "Fun Spot America - Kissimmee",
       "Region": "Kissimmee, FL, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Fun_Spot_America",
@@ -1024,7 +1035,7 @@
       "Id Ridetimes": "0"
     },
     {
-      "Park Index": "94",
+      "Park Index": "95",
       "Park Name": "Fun Spot America - Atlanta",
       "Region": "Fayetteville, GA, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Fun_Spot_America",
@@ -1035,7 +1046,7 @@
       "Id Ridetimes": "0"
     },
     {
-      "Park Index": "95",
+      "Park Index": "96",
       "Park Name": "Gold Reef City",
       "Region": "Johannesburg, South Africa",
       "Coasterpedia": "https://coasterpedia.net/wiki/Gold_Reef_City",
@@ -1046,7 +1057,7 @@
       "Id Ridetimes": "0"
     },
     {
-      "Park Index": "96",
+      "Park Index": "97",
       "Park Name": "Fantasiana",
       "Region": "Straßwalchen, Austria",
       "Coasterpedia": "https://coasterpedia.net/wiki/Fantasiana",
@@ -1057,7 +1068,7 @@
       "Id Ridetimes": "0"
     },
     {
-      "Park Index": "97",
+      "Park Index": "98",
       "Park Name": "Prater (Wein)",
       "Region": "Vienna, Austria",
       "Coasterpedia": "https://coasterpedia.net/wiki/Prater",
@@ -1068,7 +1079,7 @@
       "Id Ridetimes": "0"
     },
     {
-      "Park Index": "98",
+      "Park Index": "99",
       "Park Name": "Flamingo Land",
       "Region": "North Yorkshire, England",
       "Coasterpedia": "https://coasterpedia.net/wiki/Flamingo_Land",
@@ -1079,7 +1090,7 @@
       "Id Ridetimes": "0"
     },
     {
-      "Park Index": "99",
+      "Park Index": "100",
       "Park Name": "Hershey Park",
       "Region": "PA, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Hersheypark",
@@ -1090,7 +1101,7 @@
       "Id Ridetimes": "0"
     },
     {
-      "Park Index": "100",
+      "Park Index": "101",
       "Park Name": "Holiday World & Splashin' Safari",
       "Region": "IN, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Holiday_World_%26_Splashin%27_Safari",
@@ -1101,7 +1112,7 @@
       "Id Ridetimes": "0"
     },
     {
-      "Park Index": "101",
+      "Park Index": "102",
       "Park Name": "Kennywood",
       "Region": "PA, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Kennywood",
@@ -1112,7 +1123,7 @@
       "Id Ridetimes": "0"
     },
     {
-      "Park Index": "102",
+      "Park Index": "103",
       "Park Name": "Knoebels Amusement Resort",
       "Region": "PA, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Knoebels_Amusement_Resort",
@@ -1123,7 +1134,7 @@
       "Id Ridetimes": "314"
     },
     {
-      "Park Index": "103",
+      "Park Index": "104",
       "Park Name": "Linnanmäki",
       "Region": "Helsinki, Finland",
       "Coasterpedia": "https://coasterpedia.net/wiki/Linnanmäki",
@@ -1134,7 +1145,7 @@
       "Id Ridetimes": "0"
     },
     {
-      "Park Index": "104",
+      "Park Index": "105",
       "Park Name": "Nigloland",
       "Region": "Dolancourt, France",
       "Coasterpedia": "https://coasterpedia.net/wiki/Nigloland",
@@ -1145,7 +1156,7 @@
       "Id Ridetimes": "0"
     },
     {
-      "Park Index": "105",
+      "Park Index": "106",
       "Park Name": "Ferrari World",
       "Region": "Abu Dhabi, United Arab Emirates",
       "Coasterpedia": "https://coasterpedia.net/wiki/Ferrari_World",
@@ -1156,7 +1167,7 @@
       "Id Ridetimes": "0"
     },
     {
-      "Park Index": "106",
+      "Park Index": "107",
       "Park Name": "IMG Worlds of Adventure",
       "Region": "Dubai, UAE",
       "Coasterpedia": "https://coasterpedia.net/wiki/IMG_Worlds_of_Adventure",
@@ -1167,7 +1178,7 @@
       "Id Ridetimes": "0"
     },
     {
-      "Park Index": "107",
+      "Park Index": "108",
       "Park Name": "Nickelodeon Universe American Dream",
       "Region": "East Rutherford, NJ, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Nickelodeon_Universe_American_Dream",
@@ -1178,7 +1189,7 @@
       "Id Ridetimes": "0"
     },
     {
-      "Park Index": "108",
+      "Park Index": "109",
       "Park Name": "Lakemont Park",
       "Region": "Altoona, PA, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Lakemont_Park",
@@ -1189,7 +1200,7 @@
       "Id Ridetimes": "0"
     },
     {
-      "Park Index": "109",
+      "Park Index": "110",
       "Park Name": "Lagoon",
       "Region": "Farmington, UT, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Lagoon",
@@ -1200,7 +1211,7 @@
       "Id Ridetimes": "0"
     },
     {
-      "Park Index": "110",
+      "Park Index": "111",
       "Park Name": "Energylandia",
       "Region": "Zator, Poland",
       "Coasterpedia": "https://coasterpedia.net/wiki/Energylandia",
@@ -1211,7 +1222,7 @@
       "Id Ridetimes": "317"
     },
     {
-      "Park Index": "111",
+      "Park Index": "112",
       "Park Name": "Legendia",
       "Region": "Chorzów, Poland",
       "Coasterpedia": "https://coasterpedia.net/wiki/Legendia",
@@ -1222,7 +1233,7 @@
       "Id Ridetimes": "0"
     },
     {
-      "Park Index": "112",
+      "Park Index": "113",
       "Park Name": "Ferrari Land",
       "Region": "Catalonia, Spain",
       "Coasterpedia": "https://coasterpedia.net/wiki/Ferrari_Land",
@@ -1233,7 +1244,7 @@
       "Id Ridetimes": "277"
     },
     {
-      "Park Index": "113",
+      "Park Index": "114",
       "Park Name": "Gröna Lund",
       "Region": "Stockholm, Sweden",
       "Coasterpedia": "https://coasterpedia.net/wiki/Gr%C3%B6na_Lund",
@@ -1244,7 +1255,7 @@
       "Id Ridetimes": "166"
     },
     {
-      "Park Index": "114",
+      "Park Index": "115",
       "Park Name": "Fårup Sommerland",
       "Region": "Blokhus, Denmark",
       "Coasterpedia": "https://coasterpedia.net/wiki/F%C3%A5rup_Sommerland",
@@ -1255,7 +1266,7 @@
       "Id Ridetimes": "18"
     },
     {
-      "Park Index": "115",
+      "Park Index": "116",
       "Park Name": "Liseberg",
       "Region": "Gothenburg, Sweden",
       "Coasterpedia": "https://coasterpedia.net/wiki/Liseberg",
@@ -1266,7 +1277,7 @@
       "Id Ridetimes": "11"
     },
     {
-      "Park Index": "116",
+      "Park Index": "117",
       "Park Name": "TusenFryd",
       "Region": "Vinterbro, Norway",
       "Coasterpedia": "https://coasterpedia.net/wiki/TusenFryd",
@@ -1277,7 +1288,7 @@
       "Id Ridetimes": "0"
     },
     {
-      "Park Index": "117",
+      "Park Index": "118",
       "Park Name": "Tivoli Gardens",
       "Region": "Copenhagen, Denmark",
       "Coasterpedia": "https://coasterpedia.net/wiki/Tivoli_Gardens",
@@ -1288,7 +1299,7 @@
       "Id Ridetimes": "0"
     },
     {
-      "Park Index": "118",
+      "Park Index": "119",
       "Park Name": "Kolmården",
       "Region": "Norrköping, Sweden",
       "Coasterpedia": "https://coasterpedia.net/wiki/Kolm%C3%A5rden",
@@ -1299,7 +1310,7 @@
       "Id Ridetimes": "0"
     },
     {
-      "Park Index": "119",
+      "Park Index": "120",
       "Park Name": "Holiday Park",
       "Region": "Haßloch, Germany",
       "Coasterpedia": "https://coasterpedia.net/wiki/Holiday_Park",
@@ -1310,7 +1321,7 @@
       "Id Ridetimes": "302"
     },
     {
-      "Park Index": "120",
+      "Park Index": "121",
       "Park Name": "Glenwood Caverns Adventure Park",
       "Region": "Glenwood Springs, CO, USA",
       "Coasterpedia": "https://coasterpedia.net/wiki/Glenwood_Caverns_Adventure_Park",
@@ -1321,7 +1332,7 @@
       "Id Ridetimes": "0"
     },
     {
-      "Park Index": "121",
+      "Park Index": "122",
       "Park Name": "Etnaland",
       "Region": "Sicily, Italy",
       "Coasterpedia": "https://coasterpedia.net/wiki/Etnaland",

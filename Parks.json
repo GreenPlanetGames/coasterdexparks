@@ -620,7 +620,7 @@
       "Park Index": "57",
       "Park Name": "EPCOT | Walt Disney World Resort",
       "Region": "Bay Lake, FL, USA",
-      "Coasterpedia": "https://coasterpedia.net/wiki/EPCOT",
+      "Coasterpedia": "https://coasterpedia.net/wiki/Epcot",
       "Wikipedia": "https://en.wikipedia.org/wiki/EPCOT",
       "Official Website": "https://disneyworld.disney.go.com/destinations/epcot/",
       "Lat": "28.3723638",
@@ -653,7 +653,7 @@
       "Park Index": "60",
       "Park Name": "Disneyland Park | Disneyland Resort",
       "Region": "Anaheim, CA, USA",
-      "Coasterpedia": "https://coasterpedia.net/wiki/Disneyland_Park",
+      "Coasterpedia": "https://coasterpedia.net/wiki/Disneyland_Park_(USA)",
       "Wikipedia": "https://en.wikipedia.org/wiki/Disneyland",
       "Official Website": "https://disneyland.disney.go.com/destinations/disneyland/",
       "Lat": "33.8136512",
@@ -1341,6 +1341,17 @@
       "Lat": "37.534722",
       "Long": "14.934333",
       "Id Ridetimes": "0"
+    },
+    {
+      "Park Index": "123",
+      "Park Name": "Universal Epic Universe",
+      "Region": "FL, USA",
+      "Coasterpedia": "https://coasterpedia.net/wiki/Universal_Epic_Universe",
+      "Wikipedia": "https://en.wikipedia.org/wiki/Universal_Epic_Universe",
+      "Official Website": "https://www.universalorlando.com/web/en/gb/theme-parks/epic-universe",
+      "Lat": "28.440722",
+      "Long": "-81.448000",
+      "Id Ridetimes": "334"
     }
   ]
 }

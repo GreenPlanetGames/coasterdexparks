@@ -3,17 +3,28 @@
 
 **IMAGE LICENCES:**
 
-85 - CC BY 4.0
+85 - CC BY 4.0 - Coasterbloom
 
-90 - CC BY 4.0
+90 - CC BY 4.0 - Coasterbloom
 
-96 - CC BY 4.0
+96 - CC BY 4.0 - Coasterbloom
 
-98 - CC BY 4.0
+98 - CC BY 4.0 - Coasterbloom
 
-99 - CC BY 4.0
+99 - CC BY 4.0 - Coasterbloom
 
-100 - CC BY 4.0
+100 - CC BY 4.0 - Coasterbloom
 
-147 - CC BY 4.0
+147 - CC BY 4.0 - Coasterbloom
 
+191  - CC BY 4.0 - Harry Taylor
+
+197 - CC BY 4.0 - Harry Taylor
+
+198 - CC BY 4.0 - Harry Taylor
+
+195 - CC BY 4.0 - Harry Taylor
+
+194 - CC BY 4.0 - Harry Taylor
+
+196 - CC BY 4.0 - Harry Taylor

@@ -2,19 +2,19 @@
 
 License:
 
-The majority of Data was Sourced from Wikipedia and Coasterpedia (other sources include: Park and Manufacturer Statistics). That data is under CC BY-SA 4.0. 
+The majority of the Data was sourced from Wikipedia and Coasterpedia (other sources include: Park and Manufacturer Statistics). That data is under CC BY-SA 4.0. 
 
-This Data is also licensed Under CC BY-SA 4.0.
+This Data is also licensed under CC BY-SA 4.0.
 
 https://creativecommons.org/licenses/by-sa/4.0/
 
-Images Under their own respective licences can be found in image licences.md.
+Images under their respective licences can be found in image licences.md.
 
 ----------------------------------------------------------------------------------------------
 
 About: 
 
-This Data set was constructed by hand for the Mobile App CoasterDex. An App that is currently under development which when complete, users will be able to use to track their rollercoaster credits as well as rank coasters and find out about them through the stats in the data set as well as the links to Coasterpedia, Wikipedia and RCDB. 
+This dataset was constructed by hand for the Mobile App CoasterDex. An App that is currently under development, which, when complete, users will be able to use to track their rollercoaster credits as well as rank coasters and find out about them through the stats in the data set, as well as the links to Coasterpedia, Wikipedia and RCDB. 
 
 Feel free to use this in your projects, but please attribute it to Coasterpedia, Wikipedia, and this database correctly. 
 
@@ -22,7 +22,7 @@ Feel free to use this in your projects, but please attribute it to Coasterpedia,
 
 Other information: 
 
-This database is still under development and only contains limited data. **It is incomplete.** Updates will be pushed over time however the current dataset only contains 287 rollercoasters, 81 other Attractions, and 118 parks. 
+This database is still under development and only contains limited data. **It is incomplete.** Updates will be pushed over time however, the current dataset only contains 305 rollercoasters, 81 other Attractions, and 123 parks. 
 
 More data will be added over time. 
 

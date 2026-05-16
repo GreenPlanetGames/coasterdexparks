@@ -1147,7 +1147,7 @@
     {
       "Coaster ID": "53",
       "Park ID": "12",
-      "name": "Cobra's Curse",
+      "name": "'s Curse",
       "material": "Steel",
       "opened": "June 17, 2016",
       "manufacturer": "Mack Rides",
@@ -1162,7 +1162,7 @@
       "inversions": "0",
       "riders per train": "8",
       "peopleperhour": "1000",
-      "coasterpedia": "https://coasterpedia.net/wiki/Cobra's_Curse",
+      "coasterpedia": "https://coasterpedia.net/wiki/'s_Curse",
       "RCDB": "https://rcdb.com/12781.htm",
       "Queue-Times.com ID": "6335"
     },
@@ -3105,7 +3105,7 @@
     {
       "Coaster ID": "143",
       "Park ID": "30",
-      "name": "Cobra",
+      "name": "Raven",
       "material": "Steel",
       "opened": "March 18, 2006",
       "manufacturer": "Gerstlauer",
@@ -3120,7 +3120,7 @@
       "inversions": "0",
       "riders per train": "4",
       "peopleperhour": "720",
-      "coasterpedia": "https://coasterpedia.net/wiki/Cobra_(Paultons_Park)",
+      "coasterpedia": "https://coasterpedia.net/wiki/Raven_(Paultons_Park)",
       "RCDB": "https://rcdb.com/2723.htm",
       "Queue-Times.com ID": "3758"
     },
@@ -3131,7 +3131,7 @@
       "material": "Steel",
       "opened": "2003",
       "manufacturer": "Zierer",
-      "type": "Tivoli - Small (varient)",
+      "type": "Tivoli - Small (variant)",
       "duration": "0:54",
       "heightft": "11",
       "heightm": "3.3",
